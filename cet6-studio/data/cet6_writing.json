@@ -1,0 +1,265 @@
+{
+  "universal_reasons": [
+    {
+      "id": 1,
+      "topic": "便利性與生活節奏",
+      "en_topic": "Convenience & Accessibility",
+      "keywords": [
+        "convenient",
+        "convenience",
+        "facilitate",
+        "accessible",
+        "user-friendly"
+      ],
+      "sentences": [
+        "It brings unprecedented convenience to our daily study and work.",
+        "With the rapid advancement of modern technology, tasks that once took days can now be accomplished at the click of a button."
+      ]
+    },
+    {
+      "id": 2,
+      "topic": "工作與學習效率",
+      "en_topic": "Efficiency & Productivity",
+      "keywords": [
+        "efficient",
+        "efficiently",
+        "efficiency",
+        "productivity",
+        "time-saving"
+      ],
+      "sentences": [
+        "It significantly boosts working efficiency and eliminates redundant procedures.",
+        "Adopting this approach enables people to achieve maximum outcomes with minimum expenditure of time and energy."
+      ]
+    },
+    {
+      "id": 3,
+      "topic": "節約資源與成本控制",
+      "en_topic": "Thrift vs. Waste",
+      "keywords": [
+        "economical",
+        "cost-effective",
+        "thrift",
+        "conserve",
+        "wasteful",
+        "costly"
+      ],
+      "sentences": [
+        "It serves as an economical solution that saves valuable financial resources and physical space.",
+        "Failing to regulate this behavior inevitably results in a colossal waste of public money and natural reserves."
+      ]
+    },
+    {
+      "id": 4,
+      "topic": "心理健康與意志品格",
+      "en_topic": "Mental Health & Psychological Traits",
+      "keywords": [
+        "independent",
+        "cooperative",
+        "perseverance",
+        "resilient",
+        "isolated",
+        "stress-relief"
+      ],
+      "sentences": [
+        "It cultivates an independent mindset, builds resilience, and encourages cooperative spirit.",
+        "Facing high-pressure environments, individuals need effective outlets to alleviate anxiety and maintain emotional well-being."
+      ]
+    },
+    {
+      "id": 5,
+      "topic": "身體健康與生命活力",
+      "en_topic": "Physical Health & Vitality",
+      "keywords": [
+        "energetic",
+        "vigorous",
+        "disease-prevention",
+        "sedentary lifestyle",
+        "sound physique"
+      ],
+      "sentences": [
+        "A balanced routine is the bedrock of a sound physique and sustained intellectual output.",
+        "Sedentary habits and excessive screen time exert a severe toll on the physical wellness of younger generations."
+      ]
+    },
+    {
+      "id": 6,
+      "topic": "娛樂休閒與生活樂趣",
+      "en_topic": "Recreation & Quality of Life",
+      "keywords": [
+        "enriching",
+        "recreation",
+        "pleasure",
+        "relaxation",
+        "work-life balance"
+      ],
+      "sentences": [
+        "Engaging in recreational activities enriches one's spiritual life and broadens mental horizons.",
+        "It offers a welcome respite from hectic work schedules, allowing individuals to recharge their creative energy."
+      ]
+    },
+    {
+      "id": 7,
+      "topic": "生態環保與可持續發展",
+      "en_topic": "Environment & Sustainability",
+      "keywords": [
+        "eco-friendly",
+        "sustainable",
+        "carbon footprint",
+        "biodiversity",
+        "pollutants"
+      ],
+      "sentences": [
+        "Sustainable development demands that economic growth does not compromise our fragile ecological balance.",
+        "Every individual has an inescapable responsibility to reduce their carbon footprint and protect natural habitats."
+      ]
+    },
+    {
+      "id": 8,
+      "topic": "公共安全與風險防範",
+      "en_topic": "Safety & Risk Prevention",
+      "keywords": [
+        "safety precautions",
+        "hazard",
+        "vulnerability",
+        "risk mitigation",
+        "secure"
+      ],
+      "sentences": [
+        "Strict safety measures must be instituted to preempt potential hazards before they escalate into catastrophes.",
+        "Security consciousness ought to be embedded into every facet of organizational operations."
+      ]
+    },
+    {
+      "id": 9,
+      "topic": "社會經驗與實踐積累",
+      "en_topic": "Social Experience & Competence",
+      "keywords": [
+        "hands-on experience",
+        "integrate into society",
+        "practical insights",
+        "adaptability"
+      ],
+      "sentences": [
+        "Theoretical knowledge acquired in classrooms remains hollow until tempered by firsthand social practice.",
+        "Participating in community service bridges the gap between campus life and the demands of modern industry."
+      ]
+    },
+    {
+      "id": 10,
+      "topic": "人際溝通與團隊合作",
+      "en_topic": "Interpersonal Harmony & Teamwork",
+      "keywords": [
+        "harmonious",
+        "empathy",
+        "mutual understanding",
+        "collaborative synergy"
+      ],
+      "sentences": [
+        "Open dialogue fosters empathy and dissolves misunderstandings among people of diverse cultural backgrounds.",
+        "No milestone can be accomplished in solitude; collaborative synergy is the ultimate driving force of success."
+      ]
+    }
+  ],
+  "logic_connectors": [
+    {
+      "category": "轉折與讓步 (Concession & Contrast)",
+      "items": [
+        {
+          "word": "Although",
+          "usage": "引導讓步狀語從句，習慣置於句首，語氣正式，不能與 but 連用。"
+        },
+        {
+          "word": "Though",
+          "usage": "較口語，可放句首、句中或句尾（副詞用法），如 'He promised to come; he didn't, though.'"
+        },
+        {
+          "word": "Despite / In spite of",
+          "usage": "介系詞！後接名詞、代詞或動名詞 (doing)，絕不可直接接完整句子。"
+        },
+        {
+          "word": "While",
+          "usage": "置於句首作讓步（'While I understand your point...'），或置於句中作並列對比（'A does X, while B does Y'）。"
+        },
+        {
+          "word": "as (倒裝)",
+          "usage": "形容詞/副詞/動詞/單數名詞提前倒裝，如 'Rich as he is, he is not happy.' 或 'Child as she was...'"
+        }
+      ]
+    },
+    {
+      "category": "因果推導 (Cause & Effect)",
+      "items": [
+        {
+          "word": "Because",
+          "usage": "語氣最強的直接原因，從句是資訊重心，回答 why 的提問。"
+        },
+        {
+          "word": "Since / As",
+          "usage": "表達雙方皆知的既定事實或附帶原因，主句才是表達重心。"
+        },
+        {
+          "word": "For",
+          "usage": "等立連詞，用於對前句進行補充說明或推斷性解釋，不可置於句首。"
+        },
+        {
+          "word": "Therefore / Hence",
+          "usage": "副詞！引出嚴謹推論的必然結果，Hence 更強調前述前提之重要性。"
+        },
+        {
+          "word": "Consequently / Accordingly",
+          "usage": "Consequently 強調事件隨後產生的連鎖結果；Accordingly 強調順理成章、依通例行事。"
+        }
+      ]
+    },
+    {
+      "category": "遞進與強調 (Addition & Emphasis)",
+      "items": [
+        {
+          "word": "Furthermore / Moreover",
+          "usage": "正式書面語，用於在論據後追加更有說服力的新論據。"
+        },
+        {
+          "word": "Particularly / Especially",
+          "usage": "特指強調。Particularly 常用於特定個例，Especially 用於突出重要程度。"
+        },
+        {
+          "word": "In addition to",
+          "usage": "介系詞短語，後接名詞或動名詞，相當於 besides。"
+        }
+      ]
+    }
+  ],
+  "power_sentences": {
+    "openings": [
+      "Nowadays, it is commonly believed that..., but whether... remains a matter of lively controversy.",
+      "Like a coin has two sides, there is an undeniable positive aspect and a negative counterpart to...",
+      "Recently, the burgeoning phenomenon of... has been brought to the forefront of public attention.",
+      "Along with the accelerating pace of modern globalization, ... has become increasingly pivotal in our daily existence."
+    ],
+    "closings": [
+      "From what has been comprehensively discussed above, we may reasonably arrive at the conclusion that...",
+      "Taking all relevant variables into account, we have reached the acute realization that...",
+      "All in all, concerted efforts should be mounted by both governments and individuals to ensure that...",
+      "Only by striking a delicate equilibrium between ... and ... can we usher in a brighter and more sustainable future."
+    ]
+  },
+  "quote_templates": [
+    {
+      "id": 1,
+      "theme": "創新精神 (The Importance of Innovation)",
+      "quote": "Mindless habitual behavior is the enemy of innovation.",
+      "author": "Rosabeth Moss Kanter",
+      "model_essay": "“Mindless habitual behavior is the enemy of innovation.” I assume that you are familiar with Rosabeth Moss Kanter’s famous remark. It is obvious that a person who always clings obstinately to conventional habits can hardly pioneer new horizons.\n\nKanter’s profound remark aims at awakening us to the supreme significance of innovation. Why does creative thinking play an indispensable role in contemporary society? Primarily, innovation fuels the progress of both individual careers and civilizations as a whole. Only those equipped with originality can maintain an invincible competitive edge. A compelling illustration is Steve Jobs: without revolutionary vision, how could he have continually launched epoch-making products that radically transformed global communication?\n\nWe must constantly bear in mind that creative consciousness is the bedrock of breakthrough. Hence, we should cultivate the habit of questioning orthodoxies, embracing novel perspectives, and exploring uncharted territories in our daily undertakings.",
+      "translation": "「盲目的習慣性行為是創新的死敵。」正如坎特名言所揭示，墨守成規之人斷難開闢新境。這句話旨在喚醒我們對創新思維的重視——創新是個人與社會進步的原動力，唯有創新者方能在競爭中立於不敗之地。賈伯斯若無顛覆性思維，便不可能推出改變全球通訊的劃時代產品。我們應當打破成規，勇於擁抱新思想。"
+    },
+    {
+      "id": 2,
+      "theme": "謙遜美德 (It Pays to be Modest)",
+      "quote": "Modesty is not only an ornament, but also a guard to virtue.",
+      "author": "Joseph Addison",
+      "model_essay": "“Modesty is not only an ornament, but also a guard to virtue,” Joseph Addison once astutely observed. Modesty not only adorns an individual with elegance and grace, but also acts as an impenetrable shield preserving fine moral integrity.\n\nSimple as Addison’s dictum may appear, it encapsulates timeless philosophical wisdom. Why does modesty play such a crucial role throughout one’s life journey? Above all, modesty inspires individuals to pursue higher peaks without falling prey to complacency. Those genuinely modest never rest on their laurels; instead, they remain perpetually thirsty for knowledge. Consider Benjamin Franklin: had he been satisfied with his humble origins as a printer apprentice, he could never have achieved legendary triumphs across science, diplomacy, and literature.\n\nWe should firmly anchor this virtue in our hearts. At no juncture should we succumb to arrogance; rather, we must keep an open mind to absorb fresh insights and seize new opportunities with quiet determination.",
+      "translation": "「謙虛不僅是美德的裝飾品，更是美德的護衛者。」艾迪生這句警句深刻指明，謙虛能讓人保持清醒，避免自滿停滯。真正的謙遜者永不固步自封，富蘭克林若滿足於印刷學徒的小成，斷不可能在科學、外交、文學多領域成就非凡。在任何人生階段，我們皆當戒驕戒躁，虛懷若谷。"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+[
+  {
+    "id": 1,
+    "english": "During the meeting,hardly had he begun to speak when the audience interrupted him.",
+    "chinese_prompt": "他一开始说话，就被听众打断了",
+    "grammar_tag": "倒裝句",
+    "grammar_desc": "倒裝句 (Hardly...when)"
+  },
+  {
+    "id": 2,
+    "english": "surrounded by the police, the kidnappers had no choices but to surrender on the spot.",
+    "chinese_prompt": "没有选择，只能投降",
+    "grammar_tag": "分詞狀語",
+    "grammar_desc": "過去分詞作狀語"
+  },
+  {
+    "id": 3,
+    "english": "The concerned mother thrilled at the news of his son's having been admitted to the university.",
+    "chinese_prompt": "她的儿子被大学錄取了",
+    "grammar_tag": "動名詞",
+    "grammar_desc": "動名詞複合結構 + 被動語態"
+  },
+  {
+    "id": 4,
+    "english": "The lecture was so boring that the students couldn't help yawning.",
+    "chinese_prompt": "学生忍不住打起哈欠",
+    "grammar_tag": "固定搭配",
+    "grammar_desc": "固定搭配 (can't help doing)"
+  },
+  {
+    "id": 5,
+    "english": "I‘ll be very grateful if you could be kind enough to give me a ride to school.",
+    "chinese_prompt": "好心载我一程去学校",
+    "grammar_tag": "虛擬語氣",
+    "grammar_desc": "禮貌客氣虛擬條件句"
+  },
+  {
+    "id": 6,
+    "english": "Unless you sign a contract with the insurance company for your goods, you are not entitled to a repayment for the goods damaged in delivery.",
+    "chinese_prompt": "除非你和保险公司签订了货物保险合同",
+    "grammar_tag": "條件句",
+    "grammar_desc": "條件狀語從句 (not entitled to)"
+  },
+  {
+    "id": 7,
+    "english": "It is reported that local health organization was established 25 years agowhen Dr.Mark became its first president.",
+    "chinese_prompt": "据说当地的卫生组织25年前就成立了",
+    "grammar_tag": "主從複合句",
+    "grammar_desc": "形式主語 (It is reported that...)"
+  },
+  {
+    "id": 8,
+    "english": "Mrs.Smith shut the window lest the noise outside interfere with her son's sleep(外面的噪声会影响她儿子睡觉).",
+    "chinese_prompt": "should",
+    "grammar_tag": "虛擬語氣",
+    "grammar_desc": "lest 引導虛擬語氣 (should do)"
+  },
+  {
+    "id": 9,
+    "english": "The new mayor was charged with failure to fulfill his promise to decrease the inflation rate.",
+    "chinese_prompt": "未能履行他降低通货膨胀率的承诺",
+    "grammar_tag": "固定搭配",
+    "grammar_desc": "固定搭配 (be charged with)"
+  },
+  {
+    "id": 10,
+    "english": "When confronted with such question, my mind goes blank，and I can hardly remember my own date of birth.",
+    "chinese_prompt": "每当我遇到这类问题，我脑袋一篇空白",
+    "grammar_tag": "分詞狀語",
+    "grammar_desc": "過去分詞省略主語時間狀語"
+  },
+  {
+    "id": 11,
+    "english": "The customer complained that no sooner had he started the computer than it stopped working.",
+    "chinese_prompt": "他刚启动计算机，它就不运转了",
+    "grammar_tag": "倒裝句",
+    "grammar_desc": "倒裝句 (No sooner...than)"
+  },
+  {
+    "id": 12,
+    "english": "What upset me was not what he said but the way he said it.",
+    "chinese_prompt": "不是他说的话，而是他说话的方式",
+    "grammar_tag": "主語從句",
+    "grammar_desc": "主語從句 + not...but結構"
+  },
+  {
+    "id": 13,
+    "english": "This piece of writing is more like a news report than a short story.",
+    "chinese_prompt": "与其说是短篇小说，还不如说是新闻报道",
+    "grammar_tag": "比較結構",
+    "grammar_desc": "比較結構 (more...than与其说是...不如说是)"
+  },
+  {
+    "id": 14,
+    "english": "The court ruling deprive him of his political right.",
+    "chinese_prompt": "剥夺他的政治权力",
+    "grammar_tag": "固定搭配",
+    "grammar_desc": "固定動詞搭配 (deprive sb of sth)"
+  },
+  {
+    "id": 15,
+    "english": "Human behavior is mostly a product of learning, while animal behavior depends mostly on instinct.。.",
+    "chinese_prompt": "然而动物的行为主要依靠本能",
+    "grammar_tag": "對比句",
+    "grammar_desc": "並列對比從句 (while然而)"
+  },
+  {
+    "id": 16,
+    "english": "The growth of part-time and flexible working patterns, and of training and retraining schemes, enables more women to take full advantages of employment of opportunities.",
+    "chinese_prompt": "使得更多的妇女能够充分利用就业机会",
+    "grammar_tag": "動詞句型",
+    "grammar_desc": "固定句式 (enable sb to do)"
+  },
+  {
+    "id": 17,
+    "english": "The likely reactions of the market needs considering carefully before action is taken.",
+    "chinese_prompt": "在采取行动之前需要认真考虑",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 18,
+    "english": "He made such a contribution to the university that they named one of the buildings after him.",
+    "chinese_prompt": "以他的名字为其中一栋楼命名",
+    "grammar_tag": "固定搭配",
+    "grammar_desc": "固定搭配 (name after以...命名)"
+  },
+  {
+    "id": 19,
+    "english": "He wasn’t asked to take on the chairmanship of the society, being considering insufficiently popular with all members.",
+    "chinese_prompt": "因为考虑他无法得到全体成员的欢迎",
+    "grammar_tag": "分詞狀語",
+    "grammar_desc": "分詞短語作原因狀語"
+  },
+  {
+    "id": 20,
+    "english": "Americans eat twice more protein than they actually need every day。.",
+    "chinese_prompt": "两倍多的蛋白质",
+    "grammar_tag": "倍數句型",
+    "grammar_desc": "倍數表達法 (twice more...than)"
+  },
+  {
+    "id": 21,
+    "english": "When you speak English, your pronunciation should be correct, otherwise you can’t make yourself understood.",
+    "chinese_prompt": "否则人家就听不懂你的意思了",
+    "grammar_tag": "使役動詞",
+    "grammar_desc": "使役動詞複合賓語 (make oneself done)"
+  },
+  {
+    "id": 22,
+    "english": "My little daughter Marry, began to adapt herself to campus life after entering college for three months.",
+    "chinese_prompt": "进入大学三个月后开始慢慢适应校园生活",
+    "grammar_tag": "固定搭配",
+    "grammar_desc": "反身代詞搭配 (adapt oneself to)"
+  },
+  {
+    "id": 23,
+    "english": "Many drivers think it necessary that the government should lay down stricter traffic rules.",
+    "chinese_prompt": "政府制定更加严格的交通规则",
+    "grammar_tag": "形式賓語",
+    "grammar_desc": "形式賓語 (think it adj that...)"
+  },
+  {
+    "id": 24,
+    "english": "Depending on what you are looking for you have to judge for yourself, how relevant the material to you.",
+    "chinese_prompt": "这些材料对你來说有多大相关性",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 25,
+    "english": "The millions of calculations involved, had they been done by hand, would have lost all practical value by the time they were finished.",
+    "chinese_prompt": "等到完成的時候恐怕早就失去了所有价值",
+    "grammar_tag": "虛擬語氣",
+    "grammar_desc": "虛擬條件句倒裝 (if省略倒裝)"
+  },
+  {
+    "id": 26,
+    "english": "It was imperative that the secretary get these documents prepared before Tuesday.",
+    "chinese_prompt": "秘书在周二之前把这些文件准备好",
+    "grammar_tag": "虛擬語氣",
+    "grammar_desc": "虛擬語氣 (imperative that should do)"
+  },
+  {
+    "id": 27,
+    "english": "No matter how frequently performed,the works of Beethoven always attract large audiences.",
+    "chinese_prompt": "无论多麽频繁的演奏",
+    "grammar_tag": "讓步句",
+    "grammar_desc": "讓步狀語從句省略結構"
+  },
+  {
+    "id": 28,
+    "english": "To minimize the possibility of theft,, install a good alarm system.",
+    "chinese_prompt": "为了最大限度的減少盗窃的发生的可能性",
+    "grammar_tag": "不定式",
+    "grammar_desc": "不定式作目的狀語"
+  },
+  {
+    "id": 29,
+    "english": "I don’t think it is wise of you to show off your greater knowledge in front of the director.，for it may offend him.",
+    "chinese_prompt": "我认为在把主任面前卖弄你懂得更多知识是不明智的",
+    "grammar_tag": "句式搭配",
+    "grammar_desc": "評價句型 (It is adj of sb to do)"
+  },
+  {
+    "id": 30,
+    "english": "With repeated hacker’s attack on your system, we came to realized the necessity of hiring a computer security expert.",
+    "chinese_prompt": "我們正逐渐意识到请一位计算机安全专家的必要性",
+    "grammar_tag": "獨立主格",
+    "grammar_desc": "with複合結構"
+  },
+  {
+    "id": 31,
+    "english": "Your work is good on the whole, but there is still room for improvement.",
+    "chinese_prompt": "但是仍然有需要改善的余地",
+    "grammar_tag": "固定搭配",
+    "grammar_desc": "名詞搭配 (room for sth 改善空間)"
+  },
+  {
+    "id": 32,
+    "english": "The sun gives off light and warmth, which makes it possible for plants to grow.",
+    "chinese_prompt": "这使得植物生长成为可能",
+    "grammar_tag": "形式賓語",
+    "grammar_desc": "形式賓語 (make it possible for sb to do)"
+  },
+  {
+    "id": 33,
+    "english": "The father thought he could talk his daughter into changing her mind.",
+    "chinese_prompt": "他可以说服女儿改变主意",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 34,
+    "english": "Nowadays advertising fees of new products are out of proportion to the cost of production.",
+    "chinese_prompt": "与生产成本不成比例",
+    "grammar_tag": "固定搭配",
+    "grammar_desc": "比例搭配 (out of proportion to與...不成比例)"
+  },
+  {
+    "id": 35,
+    "english": "Few people don't complain about the tedium of their jobs, but they will feel more bored if they do not work.",
+    "chinese_prompt": "很少人不抱怨工作点掉乏味",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 36,
+    "english": "Henry has prepared a party for his girl friend, only to be told that she could not come by then.",
+    "chinese_prompt": "结果却被告知他到时候不能来",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 37,
+    "english": "The chief reason for the population growth is more a fall in death rate than a rise in birth rates.",
+    "chinese_prompt": "",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 38,
+    "english": "Ture friendship foresees the needs of others rather than proclaims of ones' own.",
+    "chinese_prompt": "而不是声明自己的要求",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 39,
+    "english": "although I liked the appearance of the house, what really made me decide to buy it was the bearutiful view through the window。.",
+    "chinese_prompt": "但真正让我觉得买下它的",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 40,
+    "english": "The government was accused of failure to fulfill its to improve urban traffic conditions.",
+    "chinese_prompt": "没能实现其改善城市交通状况的承诺",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 41,
+    "english": "only in this way could we adapt ourselves to the society quickly after we graduate.",
+    "chinese_prompt": "我们才能在毕业之后尽快适应社会",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 42,
+    "english": "No sooner had I lit the candle than it was put out.",
+    "chinese_prompt": "我刚点着蜡烛，就被风吹灭了",
+    "grammar_tag": "倒裝句",
+    "grammar_desc": "倒裝句 (No sooner...than)"
+  },
+  {
+    "id": 43,
+    "english": "Surrounded by the police, the kidnappers had no choices but to surrender on the spot.",
+    "chinese_prompt": "没有选择只好当场投降",
+    "grammar_tag": "分詞狀語",
+    "grammar_desc": "過去分詞作狀語"
+  },
+  {
+    "id": 44,
+    "english": "I'm very glad to know that my boss has generously agreed to write off my debt in return for certain services.",
+    "chinese_prompt": "作为一些服务的回报，我的老板慷慨的同意将我的欠款一笔勾销",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 45,
+    "english": "Being out of work and having two children, the couple found it impossible to make ends meet.",
+    "chinese_prompt": "夫妻两发现勉强维持升级是不能的",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 46,
+    "english": "Generally speaking, when taken according to the direction, the drug has no side effect。.",
+    "chinese_prompt": "按照说明服用时",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 47,
+    "english": "Some people argue that most crime can be attributed to the greed for money.",
+    "chinese_prompt": "可归咎于对金钱的贪婪",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 48,
+    "english": "Finding it difficult to adapt to that climate there, he decided to move to the north.",
+    "chinese_prompt": "发现很难适应那里的气候",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  },
+  {
+    "id": 49,
+    "english": "Over a third of the population was estimated to have no access to the health service.",
+    "chinese_prompt": "没有机会享受医疗保健服务",
+    "grammar_tag": "重點句型",
+    "grammar_desc": "核心語法長難句"
+  }
+]

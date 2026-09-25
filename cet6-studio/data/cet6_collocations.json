@@ -1,0 +1,698 @@
+[
+  {
+    "id": 1,
+    "phrase": "Keep up with",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 2,
+    "phrase": "Catch up with",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 3,
+    "phrase": "Come up with",
+    "meaning": "提出",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 4,
+    "phrase": "End up with",
+    "meaning": "以…告终",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 5,
+    "phrase": "Put up with",
+    "meaning": "忍受",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 6,
+    "phrase": "Make up for",
+    "meaning": "补偿/填补",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 7,
+    "phrase": "Live up to",
+    "meaning": "不辜负",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 8,
+    "phrase": "Turn up",
+    "meaning": "出现",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 9,
+    "phrase": "Turn down",
+    "meaning": "减少、拒绝",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 10,
+    "phrase": "Turn over",
+    "meaning": "翻转",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 11,
+    "phrase": "Turn in",
+    "meaning": "上缴",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 12,
+    "phrase": "Have access to sth",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 13,
+    "phrase": "Be used to doing sth",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 14,
+    "phrase": "Look forward to doing sth/sth",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 15,
+    "phrase": "Get down to sth.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 16,
+    "phrase": "Lead to/contribute to…/attribute to…",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 17,
+    "phrase": "Be superior to",
+    "meaning": "",
+    "tag": "比較級介系詞"
+  },
+  {
+    "id": 18,
+    "phrase": "Be inferior to",
+    "meaning": "",
+    "tag": "比較級介系詞"
+  },
+  {
+    "id": 19,
+    "phrase": "Be senior to",
+    "meaning": "",
+    "tag": "比較級介系詞"
+  },
+  {
+    "id": 20,
+    "phrase": "Be junior to",
+    "meaning": "",
+    "tag": "比較級介系詞"
+  },
+  {
+    "id": 21,
+    "phrase": "Prior to sth.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 22,
+    "phrase": "Range from… to…",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 23,
+    "phrase": "Be busy in",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 24,
+    "phrase": "Be busy doing sth",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 25,
+    "phrase": "Can’t help doing",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 26,
+    "phrase": "Feel like doing",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 27,
+    "phrase": "Have a good time (in )",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 28,
+    "phrase": "Have difficulty( trouble) (in)",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 29,
+    "phrase": "Spend /waste time(in)",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 30,
+    "phrase": "It’s no use doing sth",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 31,
+    "phrase": "There’s no point in",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 32,
+    "phrase": "In the way/by the way/ in no way",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 33,
+    "phrase": "It’s the first/second time that",
+    "meaning": "",
+    "tag": "從句與虛擬"
+  },
+  {
+    "id": 34,
+    "phrase": "Catch sb doing sth",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 35,
+    "phrase": "Call off=cancel",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 36,
+    "phrase": "Have an influence on sth/sb",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 37,
+    "phrase": "Impose sth on sb.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 38,
+    "phrase": "But for sth.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 39,
+    "phrase": "Risk doing sth.",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 40,
+    "phrase": "Escape doing sth.",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 41,
+    "phrase": "Accuse sb of sth.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 42,
+    "phrase": "Charge sb with sth.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 43,
+    "phrase": "Be innocent of sth.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 44,
+    "phrase": "Be alert to sth",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 45,
+    "phrase": "play a role/part in sth./doing sth",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 46,
+    "phrase": "be worth doing sth",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 47,
+    "phrase": "be worthy of doing sth",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 48,
+    "phrase": "keep/lose contact with sb.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 49,
+    "phrase": "be second to none（",
+    "meaning": "首）",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 50,
+    "phrase": "not to speak of/not to mention/let alone+",
+    "meaning": "名词/代词/动名词",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 51,
+    "phrase": "delay/ mind/ admit/ avoid/ anticipate/ consider/ contemplate/",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 52,
+    "phrase": "adapt oneself to…",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 53,
+    "phrase": "have no objection to doing sth.",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 54,
+    "phrase": "be/get used to doing",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 55,
+    "phrase": "confess to",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 56,
+    "phrase": "contribute to",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 57,
+    "phrase": "devote to",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 58,
+    "phrase": "object to",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 59,
+    "phrase": "be opposed to",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 60,
+    "phrase": "resort to",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 61,
+    "phrase": "stick to",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 62,
+    "phrase": "take to",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 63,
+    "phrase": "turn out",
+    "meaning": "生产/证明是",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 64,
+    "phrase": "a sheet of paper",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 65,
+    "phrase": "throw/cast light on",
+    "meaning": "使明白/阐明",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 66,
+    "phrase": "response/ reply/ key/ attitude/ approach/ answer/ introduction",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 67,
+    "phrase": "interfere in",
+    "meaning": "干涉",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 68,
+    "phrase": "interfere with",
+    "meaning": "妨碍",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 69,
+    "phrase": "What if…?",
+    "meaning": "陈述语序",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 70,
+    "phrase": "be accustomed to/",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 71,
+    "phrase": "adhere to",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 72,
+    "phrase": "abide by",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 73,
+    "phrase": "cooperate with",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 74,
+    "phrase": "conform to",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 75,
+    "phrase": "dispose of",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 76,
+    "phrase": "apology to sb for sth.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 77,
+    "phrase": "be thankful to/be grateful to sb",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 78,
+    "phrase": "restrain/ keep/ prevent /restrict /stop /protect /prohibit sb",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 79,
+    "phrase": "specialize in sth/doing sth.",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 80,
+    "phrase": "queue up",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 81,
+    "phrase": "acquaint sb with sth.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 82,
+    "phrase": "familiarize sb with sth.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 83,
+    "phrase": "correspond to sth",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 84,
+    "phrase": "correspond with sb.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 85,
+    "phrase": "congratulate sb on sth",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 86,
+    "phrase": "dependence/dependant on sth",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 87,
+    "phrase": "be independent of sth.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 88,
+    "phrase": "participate in sth",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 89,
+    "phrase": "be bound to",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 90,
+    "phrase": "cure sb of sth",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 91,
+    "phrase": "be of importance /significance/ value/",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 92,
+    "phrase": "beyond reach/power",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 93,
+    "phrase": "be lacking in",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 94,
+    "phrase": "be beneficial/ advantageous to sb.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 95,
+    "phrase": "be attached to sth",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 96,
+    "phrase": "be assigned to",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 97,
+    "phrase": "find fault with sb",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 98,
+    "phrase": "in memory of sb.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 99,
+    "phrase": "be absorbed in sth/doing sth",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 100,
+    "phrase": "be abundant in sth",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 101,
+    "phrase": "take sth into account /consideration",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 102,
+    "phrase": "relate sth to sb.",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 103,
+    "phrase": "remark on sth",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 104,
+    "phrase": "none other than",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 105,
+    "phrase": "so much as that",
+    "meaning": "",
+    "tag": "從句與虛擬"
+  },
+  {
+    "id": 106,
+    "phrase": "Could have done",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 107,
+    "phrase": "Must have done",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 108,
+    "phrase": "Should have done",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 109,
+    "phrase": "Never/ seldom/ rarely/ hardly/ barely/ scarcely/ little/",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 110,
+    "phrase": "Lest/ in case/unless /suppose /as if/for fear that/on",
+    "meaning": "",
+    "tag": "從句與虛擬"
+  },
+  {
+    "id": 111,
+    "phrase": "Not so much…as",
+    "meaning": "与其说…不如说",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 112,
+    "phrase": "It’s time that (",
+    "meaning": "过去式—)",
+    "tag": "從句與虛擬"
+  },
+  {
+    "id": 113,
+    "phrase": "May just as well",
+    "meaning": "",
+    "tag": "動詞片語"
+  },
+  {
+    "id": 114,
+    "phrase": "see to it that",
+    "meaning": "",
+    "tag": "從句與虛擬"
+  },
+  {
+    "id": 115,
+    "phrase": "see to doing sth",
+    "meaning": "",
+    "tag": "動名詞慣用"
+  },
+  {
+    "id": 116,
+    "phrase": "order/ ask/ demand/ command/ request/ require that+",
+    "meaning": "虚拟语气",
+    "tag": "從句與虛擬"
+  }
+]

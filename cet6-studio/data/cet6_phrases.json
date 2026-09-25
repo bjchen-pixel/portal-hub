@@ -1,0 +1,5969 @@
+[
+  {
+    "id": 1,
+    "phrase": "abide by",
+    "raw": "abide by(=be faithful to ; obey)忠于；遵守。",
+    "synonyms": "be faithful to ; obey",
+    "meaning": "忠于；遵守。",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 2,
+    "phrase": "be absent from…",
+    "raw": "be absent from…. 缺席，不在",
+    "synonyms": "",
+    "meaning": "缺席，不在",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 3,
+    "phrase": "absence or mind",
+    "raw": "absence or mind(=being absent-minded) 心不在焉",
+    "synonyms": "being absent-minded",
+    "meaning": "心不在焉",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 4,
+    "phrase": "absorb",
+    "raw": "absorb(=take up the attention of)吸引…的注意力(被动语态) absorbed in 全神贯注于…近:be engrossed in ; be lost in ; be rapt in ;be concentrated on ; be focused on ; be centered on",
+    "synonyms": "take up the attention of",
+    "meaning": "吸引…的注意力(被动语态) absorbed in 全神贯注于…近:be engrossed in ; be lost in ; be rapt in ;be concentrated on ; be focused on ; be centered on",
+    "first_letter": "A",
+    "tag": "被動語態"
+  },
+  {
+    "id": 5,
+    "phrase": "(be) abundant in(be rich in; be well supplied with)",
+    "raw": "(be) abundant in(be rich in; be well supplied with) 富于,富有",
+    "synonyms": "",
+    "meaning": "富于,富有",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 6,
+    "phrase": "access(to) (",
+    "raw": "access(to) (不可数名词) 能接近,进入,了解",
+    "synonyms": "",
+    "meaning": "不可数名词) 能接近,进入,了解",
+    "first_letter": "A",
+    "tag": "名詞慣用"
+  },
+  {
+    "id": 7,
+    "phrase": "by accident",
+    "raw": "by accident(=by chance, accidentally)偶然地,意外. Without accident(=safely) 安全地,",
+    "synonyms": "by chance, accidentally",
+    "meaning": "偶然地,意外. Without accident(=safely) 安全地,",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 8,
+    "phrase": "of one’s own accord",
+    "raw": "of one’s own accord(=without being asked; willingly; freely)自愿地 ,主动地",
+    "synonyms": "without being asked; willingly; freely",
+    "meaning": "自愿地 ,主动地",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 9,
+    "phrase": "in accord with",
+    "raw": "in accord with 与…一致 . out of one’s accord with 同….不一致",
+    "synonyms": "",
+    "meaning": "与…一致 . out of one’s accord with 同….不一致",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 10,
+    "phrase": "with one accord",
+    "raw": "with one accord (=with everybody agreeing)一致地",
+    "synonyms": "with everybody agreeing",
+    "meaning": "一致地",
+    "first_letter": "W",
+    "tag": "同義替換"
+  },
+  {
+    "id": 11,
+    "phrase": "in accordance with",
+    "raw": "in accordance with (=in agreement with) 依照,根据",
+    "synonyms": "in agreement with",
+    "meaning": "依照,根据",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 12,
+    "phrase": "on one’s own account 1)",
+    "raw": "on one’s own account \n1) 为了某人的缘故, 为了某人自己的利益 \n2) (=at one’s own risk) 自行负责 \n3) (=by oneself)依靠自己 \non account 赊账; on account of 因为; on no account不论什么原因也不;of …account 有…..重要性.",
+    "synonyms": "at one’s own risk",
+    "meaning": "为了某人的缘故, 为了某人自己的利益 \n2) (=at one’s own risk) 自行负责 \n3) (=by oneself)依靠自己 \non account 赊账; on account of 因为; on no account不论什么原因也不;of …account 有…..重要性.",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 13,
+    "phrase": "take…into account",
+    "raw": "take…into account(=consider)把...考虑进去",
+    "synonyms": "consider",
+    "meaning": "把...考虑进去",
+    "first_letter": "T",
+    "tag": "同義替換"
+  },
+  {
+    "id": 14,
+    "phrase": "give sb. an account of",
+    "raw": "give sb. an account of 说明, 解释 (理由)",
+    "synonyms": "",
+    "meaning": "说明, 解释 (理由)",
+    "first_letter": "G",
+    "tag": "核心短語"
+  },
+  {
+    "id": 15,
+    "phrase": "account for",
+    "raw": "account for (=give an explanation or reason for) 解释, 说明.",
+    "synonyms": "give an explanation or reason for",
+    "meaning": "解释, 说明.",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 16,
+    "phrase": "on account of",
+    "raw": "on account of (=because of) 由于,因为.",
+    "synonyms": "because of",
+    "meaning": "由于,因为.",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 17,
+    "phrase": "on no account",
+    "raw": "on no account(=in no case, for no reason)绝不要,无论如何不要(放句首时句子要倒装)",
+    "synonyms": "in no case, for no reason",
+    "meaning": "绝不要,无论如何不要(放句首时句子要倒装)",
+    "first_letter": "O",
+    "tag": "語法倒裝"
+  },
+  {
+    "id": 18,
+    "phrase": "accuse…of…",
+    "raw": "accuse…of…(=charge…with; blame sb. for sth. ; blame sth. on sb. ; complain about) 指控,控告",
+    "synonyms": "charge…with; blame sb. for sth. ; blame sth. on sb. ; complain about",
+    "meaning": "指控,控告",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 19,
+    "phrase": "be accustomed to",
+    "raw": "be accustomed to (=be in the habit of, be used to)习惯于.",
+    "synonyms": "be in the habit of, be used to",
+    "meaning": "习惯于.",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 20,
+    "phrase": "be acquainted with",
+    "raw": "be acquainted with(=to have knowledge of) 了解; (=to have met socially) 熟悉",
+    "synonyms": "to have knowledge of",
+    "meaning": "了解; (=to have met socially) 熟悉",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 21,
+    "phrase": "act on",
+    "raw": "act on 奉行,按照…行动; act as 扮演; act for 代理",
+    "synonyms": "",
+    "meaning": "奉行,按照…行动; act as 扮演; act for 代理",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 22,
+    "phrase": "adapt oneself to",
+    "raw": "adapt oneself to(=adjust oneself to) 使自己适应于",
+    "synonyms": "adjust oneself to",
+    "meaning": "使自己适应于",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 23,
+    "phrase": "adapt…(for)",
+    "raw": "adapt…(for) (=make sth. Suitable for a new need) 改编, 改写(以适应新的需要)",
+    "synonyms": "make sth. Suitable for a new need",
+    "meaning": "改编, 改写(以适应新的需要)",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 24,
+    "phrase": "in addition",
+    "raw": "in addition (=besides) 此外, 又, 加之",
+    "synonyms": "besides",
+    "meaning": "此外, 又, 加之",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 25,
+    "phrase": "in addition to",
+    "raw": "in addition to(=as well as, besides, other than)除…外",
+    "synonyms": "as well as, besides, other than",
+    "meaning": "除…外",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 26,
+    "phrase": "adhere to",
+    "raw": "adhere to (=abide by, conform to, comply with, cling to, insist on, persist in, observe, opinion, belief ) 粘附; 坚持, 遵循",
+    "synonyms": "abide by, conform to, comply with, cling to, insist on, persist in, observe, opinion, belief",
+    "meaning": "粘附; 坚持, 遵循",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 27,
+    "phrase": "adjacent",
+    "raw": "adjacent(=next to, close to) 毗邻的, 临近的",
+    "synonyms": "next to, close to",
+    "meaning": "毗邻的, 临近的",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 28,
+    "phrase": "adjust..(to)",
+    "raw": "adjust..(to) (=change slightly)调节; 适应;",
+    "synonyms": "change slightly",
+    "meaning": "调节; 适应;",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 29,
+    "phrase": "admit of …",
+    "raw": "admit of (=be capable of, leave room for) …的可能，留有…的余地.",
+    "synonyms": "be capable of, leave room for",
+    "meaning": "的可能，留有…的余地.",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 30,
+    "phrase": "in advance (before in time)",
+    "raw": "in advance (before in time) 预告, 事先.",
+    "synonyms": "",
+    "meaning": "预告, 事先.",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 31,
+    "phrase": "to advantage",
+    "raw": "to advantage 有利的,使优点更加突出地.",
+    "synonyms": "",
+    "meaning": "有利的,使优点更加突出地.",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 32,
+    "phrase": "have an advantage over",
+    "raw": "have an advantage over 胜过. \nhave the advantage of 由于…处于有利条件 \nhave the advantage of sb.知道某人所不知道的事",
+    "synonyms": "",
+    "meaning": "胜过. \nhave the advantage of 由于…处于有利条件 \nhave the advantage of sb.知道某人所不知道的事",
+    "first_letter": "H",
+    "tag": "核心短語"
+  },
+  {
+    "id": 33,
+    "phrase": "take advantage of",
+    "raw": "take advantage of (=make the best of, utilize, make use of, profit from, harness)利用.",
+    "synonyms": "make the best of, utilize, make use of, profit from, harness",
+    "meaning": "利用.",
+    "first_letter": "T",
+    "tag": "同義替換"
+  },
+  {
+    "id": 34,
+    "phrase": "agree with",
+    "raw": "agree with 赞同(某人意见) agree to 同意",
+    "synonyms": "",
+    "meaning": "赞同(某人意见) agree to 同意",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 35,
+    "phrase": "in agreement (with)",
+    "raw": "in agreement (with) 同意, 一致",
+    "synonyms": "",
+    "meaning": "同意, 一致",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 36,
+    "phrase": "ahead of",
+    "raw": "ahead of 在…之前, 超过…;……………. ahead of time 提前.",
+    "synonyms": "",
+    "meaning": "在…之前, 超过…;……………. ahead of time 提前.",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 37,
+    "phrase": "in the air 1)",
+    "raw": "in the air 1)不肯定, 不具体. 2)在谣传中.",
+    "synonyms": "",
+    "meaning": "不肯定, 不具体. 2)在谣传中.",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 38,
+    "phrase": "above all",
+    "raw": "above all (=especially, most important of all) 尤其是, 最重要的.",
+    "synonyms": "especially, most important of all",
+    "meaning": "尤其是, 最重要的.",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 39,
+    "phrase": "in all",
+    "raw": "in all (=counting everyone or everything, altogether) 总共, 总计",
+    "synonyms": "counting everyone or everything, altogether",
+    "meaning": "总共, 总计",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 40,
+    "phrase": "after all",
+    "raw": "after all 毕竟,到底; (not) at all 一点也不; \nall at once(=suddenly)突然; once and for all 只此一次; above all 最重要的; first of all 首先; all in all 大体上说; be all in 累极了; all but 几乎.",
+    "synonyms": "suddenly",
+    "meaning": "毕竟,到底; (not) at all 一点也不; \nall at once(=suddenly)突然; once and for all 只此一次; above all 最重要的; first of all 首先; all in all 大体上说; be all in 累极了; all but 几乎.",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 41,
+    "phrase": "allow for",
+    "raw": "allow for (=take into consideration, take into account) 考虑到, 估计到.",
+    "synonyms": "take into consideration, take into account",
+    "meaning": "考虑到, 估计到.",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 42,
+    "phrase": "amount to",
+    "raw": "amount to (=to be equal to) 总计, 等于.",
+    "synonyms": "to be equal to",
+    "meaning": "总计, 等于.",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 43,
+    "phrase": "answer for (undertake responsibility for, be liable for, take charge for)",
+    "raw": "answer for (undertake responsibility for, be liable for, take charge for) 对…负责.",
+    "synonyms": "",
+    "meaning": "对…负责.",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 44,
+    "phrase": "answer to",
+    "raw": "answer to (=conform to) 适合,符合.",
+    "synonyms": "conform to",
+    "meaning": "适合,符合.",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 45,
+    "phrase": "be anxious about",
+    "raw": "be anxious about 为…焦急不安; 或anxious for",
+    "synonyms": "",
+    "meaning": "为…焦急不安; 或anxious for",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 46,
+    "phrase": "apologize to sb. for sth",
+    "raw": "apologize to sb. for sth. 为…向…道歉",
+    "synonyms": "",
+    "meaning": "为…向…道歉",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 47,
+    "phrase": "appeal to sb. for sth",
+    "raw": "appeal to sb. for sth. 为某事向某人呼吁. appeal to sb. 对某人有吸引力",
+    "synonyms": "",
+    "meaning": "为某事向某人呼吁. appeal to sb. 对某人有吸引力",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 48,
+    "phrase": "apply to sb. for sth",
+    "raw": "apply to sb. for sth. 为…向…申请 ; apply for申请; apply to 适用.",
+    "synonyms": "",
+    "meaning": "为…向…申请 ; apply for申请; apply to 适用.",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 49,
+    "phrase": "apply to",
+    "raw": "apply to 与…有关;适用",
+    "synonyms": "",
+    "meaning": "与…有关;适用",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 50,
+    "phrase": "approve of",
+    "raw": "approve of (=consent to, be in favor of, favor, agree to, consider good, right) 赞成, approve vt. 批准",
+    "synonyms": "consent to, be in favor of, favor, agree to, consider good, right",
+    "meaning": "赞成, approve vt. 批准",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 51,
+    "phrase": "arise from",
+    "raw": "arise from(=be caused by) 由…引起.",
+    "synonyms": "be caused by",
+    "meaning": "由…引起.",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 52,
+    "phrase": "arrange for sb./sth. to do sth",
+    "raw": "arrange for sb./sth. to do sth. 安排…做…",
+    "synonyms": "",
+    "meaning": "安排…做…",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 53,
+    "phrase": "arrive on",
+    "raw": "arrive on 到达; arrive at 到达某地(小地方);得出,作出; arrive in 到达某地(大地方);",
+    "synonyms": "",
+    "meaning": "到达; arrive at 到达某地(小地方);得出,作出; arrive in 到达某地(大地方);",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 54,
+    "phrase": "be ashamed of",
+    "raw": "be ashamed of (=feel shame, guilt or sorrow because of sth. done) 以…为羞耻",
+    "synonyms": "feel shame, guilt or sorrow because of sth. done",
+    "meaning": "以…为羞耻",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 55,
+    "phrase": "assure sb. of sth",
+    "raw": "assure sb. of sth. (=try to cause to believe or trust in sth.) 向…保证, 使…确信.",
+    "synonyms": "try to cause to believe or trust in sth.",
+    "meaning": "向…保证, 使…确信.",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 56,
+    "phrase": "attach(to)",
+    "raw": "attach(to) (=to fix, fasten; join) 缚, 系 ,结",
+    "synonyms": "to fix, fasten; join",
+    "meaning": "缚, 系 ,结",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 57,
+    "phrase": "make an attempt at doing sth. (to do sth.)",
+    "raw": "make an attempt at doing sth. (to do sth.) 试图做…",
+    "synonyms": "",
+    "meaning": "试图做…",
+    "first_letter": "M",
+    "tag": "核心短語"
+  },
+  {
+    "id": 58,
+    "phrase": "attend to",
+    "raw": "attend to (=give one’s attention, care and thought)注意,照顾;attend on(upon)(=wait upon, serve, look after) 侍候,照料",
+    "synonyms": "give one’s attention, care and thought",
+    "meaning": "注意,照顾;attend on(upon)(=wait upon, serve, look after) 侍候,照料",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 59,
+    "phrase": "attitude to/ toward …",
+    "raw": "attitude to/ toward …对…的态度.看法",
+    "synonyms": "",
+    "meaning": "对…的态度.看法",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 60,
+    "phrase": "attribute…to…",
+    "raw": "attribute…to…(=to believe sth. to be the result of…)把..归因于.., 认为..是..的结果",
+    "synonyms": "to believe sth. to be the result of…",
+    "meaning": "把..归因于.., 认为..是..的结果",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 61,
+    "phrase": "on the average",
+    "raw": "on the average (=on average, on an average) 平均",
+    "synonyms": "on average, on an average",
+    "meaning": "平均",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 62,
+    "phrase": "(be) aware of",
+    "raw": "(be) aware of (=be conscious of , having knowledge or consciousness)意识到,知道.",
+    "synonyms": "be conscious of , having knowledge or consciousness",
+    "meaning": "意识到,知道.",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 63,
+    "phrase": "at the back of",
+    "raw": "at the back of (=behind) 在…后面",
+    "synonyms": "behind",
+    "meaning": "在…后面",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 64,
+    "phrase": "in the back of",
+    "raw": "in the back of 在…后部(里面); on the back of 在…后部(外面); be on one’s back(=be ill in bed) 卧病不起.",
+    "synonyms": "be ill in bed",
+    "meaning": "在…后部(里面); on the back of 在…后部(外面); be on one’s back(=be ill in bed) 卧病不起.",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 65,
+    "phrase": "at one’s back",
+    "raw": "at one’s back(=supporting or favoring sb.) 支持,维护; have sb. at one’s back 有…支持, 有…作后台",
+    "synonyms": "supporting or favoring sb.",
+    "meaning": "支持,维护; have sb. at one’s back 有…支持, 有…作后台",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 66,
+    "phrase": "turn one’s back on sb",
+    "raw": "turn one’s back on sb. (=turn away from sb. in an impolite way) 不理睬(某人),背弃,抛弃",
+    "synonyms": "turn away from sb. in an impolite way",
+    "meaning": "不理睬(某人),背弃,抛弃",
+    "first_letter": "T",
+    "tag": "同義替換"
+  },
+  {
+    "id": 67,
+    "phrase": "behind one’s back",
+    "raw": "behind one’s back 背着某人(说坏话)",
+    "synonyms": "",
+    "meaning": "背着某人(说坏话)",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 68,
+    "phrase": "be based on / upon",
+    "raw": "be based on / upon 基于",
+    "synonyms": "",
+    "meaning": "基于",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 69,
+    "phrase": "on the basis of",
+    "raw": "on the basis of 根据…, 在…基础上",
+    "synonyms": "",
+    "meaning": "根据…, 在…基础上",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 70,
+    "phrase": "beat…at",
+    "raw": "beat…at 在…运动项目上打赢",
+    "synonyms": "",
+    "meaning": "在…运动项目上打赢",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 71,
+    "phrase": "begin with",
+    "raw": "begin with 以…开始. to begin with (=first of all) 首先, 第一(经常用于开始语)",
+    "synonyms": "first of all",
+    "meaning": "以…开始. to begin with (=first of all) 首先, 第一(经常用于开始语)",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 72,
+    "phrase": "on behalf of",
+    "raw": "on behalf of (=as the representative of) 以…名义",
+    "synonyms": "as the representative of",
+    "meaning": "以…名义",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 73,
+    "phrase": "believe in",
+    "raw": "believe in(=have faith or trust in; consider sth./sb. to be true) 相信,依赖,信仰.",
+    "synonyms": "have faith or trust in; consider sth./sb. to be true",
+    "meaning": "相信,依赖,信仰.",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 74,
+    "phrase": "benefit (from)",
+    "raw": "benefit (from) 受益,得到好处.",
+    "synonyms": "",
+    "meaning": "受益,得到好处.",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 75,
+    "phrase": "for the benefit of",
+    "raw": "for the benefit of 为了…的利益(好处)",
+    "synonyms": "",
+    "meaning": "为了…的利益(好处)",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 76,
+    "phrase": "for the better",
+    "raw": "for the better 好转",
+    "synonyms": "",
+    "meaning": "好转",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 77,
+    "phrase": "get the better of",
+    "raw": "get the better of (=defeat sb.) 打败, 胜过.",
+    "synonyms": "defeat sb.",
+    "meaning": "打败, 胜过.",
+    "first_letter": "G",
+    "tag": "同義替換"
+  },
+  {
+    "id": 78,
+    "phrase": "by birth",
+    "raw": "by birth 在出生上,论出身,按血统 at birth 在出生时; give birth to 出生",
+    "synonyms": "",
+    "meaning": "在出生上,论出身,按血统 at birth 在出生时; give birth to 出生",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 79,
+    "phrase": "blame sb. for sth",
+    "raw": "blame sb. for sth. 因…责备某人 . blame sth. on sb. 把…推在某人身上",
+    "synonyms": "",
+    "meaning": "因…责备某人 . blame sth. on sb. 把…推在某人身上",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 80,
+    "phrase": "in blossom",
+    "raw": "in blossom开花(指树木) be in blossom开花(强调状态) come into blossom开花(强调动作)",
+    "synonyms": "",
+    "meaning": "开花(指树木) be in blossom开花(强调状态) come into blossom开花(强调动作)",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 81,
+    "phrase": "on board",
+    "raw": "on board 到船上, 在船上, 上火车或飞机",
+    "synonyms": "",
+    "meaning": "到船上, 在船上, 上火车或飞机",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 82,
+    "phrase": "boast of (or about)",
+    "raw": "boast of (or about) 吹嘘",
+    "synonyms": "",
+    "meaning": "吹嘘",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 83,
+    "phrase": "out of breath",
+    "raw": "out of breath 喘不过气来",
+    "synonyms": "",
+    "meaning": "喘不过气来",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 84,
+    "phrase": "in brief",
+    "raw": "in brief(=in as few words as possible)简言之",
+    "synonyms": "in as few words as possible",
+    "meaning": "简言之",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 85,
+    "phrase": "in bulk",
+    "raw": "in bulk 成批地,不散装的",
+    "synonyms": "",
+    "meaning": "成批地,不散装的",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 86,
+    "phrase": "take the floor",
+    "raw": "take the floor 起立发言",
+    "synonyms": "",
+    "meaning": "起立发言",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 87,
+    "phrase": "on business",
+    "raw": "on business 出差办事.",
+    "synonyms": "",
+    "meaning": "出差办事.",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 88,
+    "phrase": "be busy with sth",
+    "raw": "be busy with sth.于某事 。 be busy doing sth. 忙于做某事",
+    "synonyms": "",
+    "meaning": "于某事 。 be busy doing sth. 忙于做某事",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 89,
+    "phrase": "last but one",
+    "raw": "last but one 倒数第二.",
+    "synonyms": "",
+    "meaning": "倒数第二.",
+    "first_letter": "L",
+    "tag": "核心短語"
+  },
+  {
+    "id": 90,
+    "phrase": "but for",
+    "raw": "but for (=without) 要不是. 表示假设",
+    "synonyms": "without",
+    "meaning": "要不是. 表示假设",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 91,
+    "phrase": "buy sth. for…money",
+    "raw": "buy sth. for…money 用多少钱买",
+    "synonyms": "",
+    "meaning": "用多少钱买",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 92,
+    "phrase": "be capable of",
+    "raw": "be capable of 能够, 有能力 \nbe capable of being +过去分词:是能够被…的",
+    "synonyms": "",
+    "meaning": "能够, 有能力 \nbe capable of being +过去分词:是能够被…的",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 93,
+    "phrase": "in any case",
+    "raw": "in any case(=for love or money, at any rate, at any price, at any cost, whatever happens; anyhow)无论如何",
+    "synonyms": "for love or money, at any rate, at any price, at any cost, whatever happens; anyhow",
+    "meaning": "无论如何",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 94,
+    "phrase": "in case",
+    "raw": "in case (=for fear that) 万一;",
+    "synonyms": "for fear that",
+    "meaning": "万一;",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 95,
+    "phrase": "in case of",
+    "raw": "in case of (=in the event of)如果发生…万一 \nin the case of 至于…, 就…而言",
+    "synonyms": "in the event of",
+    "meaning": "如果发生…万一 \nin the case of 至于…, 就…而言",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 96,
+    "phrase": "in no case",
+    "raw": "in no case在任何情况下都不(放句首倒装句)",
+    "synonyms": "",
+    "meaning": "在任何情况下都不(放句首倒装句)",
+    "first_letter": "I",
+    "tag": "語法倒裝"
+  },
+  {
+    "id": 97,
+    "phrase": "be cautious of",
+    "raw": "be cautious of 谨防",
+    "synonyms": "",
+    "meaning": "谨防",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 98,
+    "phrase": "center one’s attention on",
+    "raw": "center one’s attention on(=focus one’s attention on) 把某人的注意力集中在…上",
+    "synonyms": "focus one’s attention on",
+    "meaning": "把某人的注意力集中在…上",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 99,
+    "phrase": "be certain of",
+    "raw": "be certain of (=be sure of) 有把握, 一定.",
+    "synonyms": "be sure of",
+    "meaning": "有把握, 一定.",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 100,
+    "phrase": "for certain of",
+    "raw": "for certain of (=for sure )肯定地,有把握地",
+    "synonyms": "for sure",
+    "meaning": "肯定地,有把握地",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 101,
+    "phrase": "by chance",
+    "raw": "by chance(=accidentally, by accident)偶然",
+    "synonyms": "accidentally, by accident",
+    "meaning": "偶然",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 102,
+    "phrase": "for a change",
+    "raw": "for a change换换环境(花样等)",
+    "synonyms": "",
+    "meaning": "换换环境(花样等)",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 103,
+    "phrase": "charge sb. with …",
+    "raw": "charge sb. with …控告某人犯有…",
+    "synonyms": "",
+    "meaning": "控告某人犯有…",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 104,
+    "phrase": "in charge of",
+    "raw": "in charge of (=responsible for) 负责(某事) \nin the charge of …由…管",
+    "synonyms": "responsible for",
+    "meaning": "负责(某事) \nin the charge of …由…管",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 105,
+    "phrase": "take charge of",
+    "raw": "take charge of (=to be or become responsible for)负责管理(照顾)",
+    "synonyms": "to be or become responsible for",
+    "meaning": "负责管理(照顾)",
+    "first_letter": "T",
+    "tag": "同義替換"
+  },
+  {
+    "id": 106,
+    "phrase": "charge…for",
+    "raw": "charge…for 因…索取(费用) , charge sb. with sth. 控告某人犯有…",
+    "synonyms": "",
+    "meaning": "因…索取(费用) , charge sb. with sth. 控告某人犯有…",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 107,
+    "phrase": "round the clock",
+    "raw": "round the clock(=all day and all night, usually without stopping) 昼夜不停地",
+    "synonyms": "all day and all night, usually without stopping",
+    "meaning": "昼夜不停地",
+    "first_letter": "R",
+    "tag": "同義替換"
+  },
+  {
+    "id": 108,
+    "phrase": "comment on",
+    "raw": "comment on 评论",
+    "synonyms": "",
+    "meaning": "评论",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 109,
+    "phrase": "commit oneself to",
+    "raw": "commit oneself to 使自己承担… commit sb. to prison把某人送进监狱; commit one’s idea to writing 把某人的想法写下来; commit a matter to a committee 把某事交给委员会讨论",
+    "synonyms": "",
+    "meaning": "使自己承担… commit sb. to prison把某人送进监狱; commit one’s idea to writing 把某人的想法写下来; commit a matter to a committee 把某事交给委员会讨论",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 110,
+    "phrase": "in common (",
+    "raw": "in common (和…)有共同之处,共用. \nbe common to sb. 是与某人所共有的",
+    "synonyms": "",
+    "meaning": "和…)有共同之处,共用. \nbe common to sb. 是与某人所共有的",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 111,
+    "phrase": "keep company with",
+    "raw": "keep company with (=be friendly and go out together) 和…要好.",
+    "synonyms": "be friendly and go out together",
+    "meaning": "和…要好.",
+    "first_letter": "K",
+    "tag": "同義替換"
+  },
+  {
+    "id": 112,
+    "phrase": "compare…with …",
+    "raw": "compare…with … 把…与…比较",
+    "synonyms": "",
+    "meaning": "把…与…比较",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 113,
+    "phrase": "compare…to…",
+    "raw": "compare…to… 把…比作…",
+    "synonyms": "",
+    "meaning": "把…比作…",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 114,
+    "phrase": "by comparison",
+    "raw": "by comparison 比较起来",
+    "synonyms": "",
+    "meaning": "比较起来",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 115,
+    "phrase": "in comparison with",
+    "raw": "in comparison with (=in contrast to) 和…比起来",
+    "synonyms": "in contrast to",
+    "meaning": "和…比起来",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 116,
+    "phrase": "compensate for",
+    "raw": "compensate for (=give sth. to make up for) 补偿, 赔偿,弥补 compensate sb. for sth. 赔偿,弥补",
+    "synonyms": "give sth. to make up for",
+    "meaning": "补偿, 赔偿,弥补 compensate sb. for sth. 赔偿,弥补",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 117,
+    "phrase": "complain of (or about)",
+    "raw": "complain of (or about)抱怨;诉苦;控告;complain about 抱怨某人或事情; complain to sb. about sth. (or sb.) 向某人抱怨…; complain (抱怨); complement (补充); compliment (恭维)",
+    "synonyms": "",
+    "meaning": "抱怨;诉苦;控告;complain about 抱怨某人或事情; complain to sb. about sth. (or sb.) 向某人抱怨…; complain (抱怨); complement (补充); compliment (恭维)",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 118,
+    "phrase": "comply with",
+    "raw": "comply with (=act in accordance with a demand, order, rule etc.) 遵守, 依从",
+    "synonyms": "act in accordance with a demand, order, rule etc.",
+    "meaning": "遵守, 依从",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 119,
+    "phrase": "conceive of (think of, imagine, consider)",
+    "raw": "conceive of (think of, imagine, consider) 想象,设想",
+    "synonyms": "",
+    "meaning": "想象,设想",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 120,
+    "phrase": "concentrate on (or upon)",
+    "raw": "concentrate on (or upon) 集中,专心",
+    "synonyms": "",
+    "meaning": "集中,专心",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 121,
+    "phrase": "be concerned with",
+    "raw": "be concerned with (=about) 与…有关",
+    "synonyms": "about",
+    "meaning": "与…有关",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 122,
+    "phrase": "concern oneself about / with",
+    "raw": "concern oneself about / with 关心",
+    "synonyms": "",
+    "meaning": "关心",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 123,
+    "phrase": "in conclusion",
+    "raw": "in conclusion(=as the last thing)最后一点; at the conclusion of 当…结束时;",
+    "synonyms": "as the last thing",
+    "meaning": "最后一点; at the conclusion of 当…结束时;",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 124,
+    "phrase": "condemn sb. to",
+    "raw": "condemn sb. to 判决",
+    "synonyms": "",
+    "meaning": "判决",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 125,
+    "phrase": "on condition that",
+    "raw": "on condition that (=if)以…为条件, 假如. \nin that = because 因为; \nnow that = since 既然 \nfor all that = although 尽管",
+    "synonyms": "if",
+    "meaning": "以…为条件, 假如. \nin that = because 因为; \nnow that = since 既然 \nfor all that = although 尽管",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 126,
+    "phrase": "in / out of condition",
+    "raw": "in / out of condition (=thoroughly healthy or fit / not fit) 健康状况好/不好 . in good (bad) condition处于良好(坏)状态",
+    "synonyms": "thoroughly healthy or fit / not fit",
+    "meaning": "健康状况好/不好 . in good (bad) condition处于良好(坏)状态",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 127,
+    "phrase": "confess(to)",
+    "raw": "confess(to)(=admit a fault, crime, or sth. wrong)承认, 供认; \nconfess to a crime 承认罪行.",
+    "synonyms": "admit a fault, crime, or sth. wrong",
+    "meaning": "承认, 供认; \nconfess to a crime 承认罪行.",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 128,
+    "phrase": "confide in",
+    "raw": "confide in (=to talk freely to sb. about one’s secret) 对…讲真心话, 依赖",
+    "synonyms": "to talk freely to sb. about one’s secret",
+    "meaning": "对…讲真心话, 依赖",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 129,
+    "phrase": "in confidence",
+    "raw": "in confidence 推心置腹地; \nwith confidence 满怀信心地; \nhave confidence in 对…有信心",
+    "synonyms": "",
+    "meaning": "推心置腹地; \nwith confidence 满怀信心地; \nhave confidence in 对…有信心",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 130,
+    "phrase": "confidence in sb. / sth",
+    "raw": "confidence in sb. / sth. 对…的信赖",
+    "synonyms": "",
+    "meaning": "对…的信赖",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 131,
+    "phrase": "be confident of",
+    "raw": "be confident of 有信心;\nconfidential 机密的",
+    "synonyms": "",
+    "meaning": "有信心;\nconfidential 机密的",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 132,
+    "phrase": "confine…to…",
+    "raw": "confine…to… 把…限制在某范围内",
+    "synonyms": "",
+    "meaning": "把…限制在某范围内",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 133,
+    "phrase": "confirm sb. in",
+    "raw": "confirm sb. in 使某人更坚定(信念等)",
+    "synonyms": "",
+    "meaning": "使某人更坚定(信念等)",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 134,
+    "phrase": "conform to",
+    "raw": "conform to (=be in agreement with, comply with) 符合,遵照,遵守;1)obey服从; 2) observe; 3)comply with照…办; 4)keep to遵循; 5)abide by服从;6)stick to按..做",
+    "synonyms": "be in agreement with, comply with",
+    "meaning": "符合,遵照,遵守;1)obey服从; 2) observe; 3)comply with照…办; 4)keep to遵循; 5)abide by服从;6)stick to按..做",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 135,
+    "phrase": "be confronted with",
+    "raw": "be confronted with(=be brought face to face with) 面对, 面临",
+    "synonyms": "be brought face to face with",
+    "meaning": "面对, 面临",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 136,
+    "phrase": "congratulate sb. on",
+    "raw": "congratulate sb. on 祝贺",
+    "synonyms": "",
+    "meaning": "祝贺",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 137,
+    "phrase": "in connection with",
+    "raw": "in connection with(=with regard to)关于,",
+    "synonyms": "with regard to",
+    "meaning": "关于,",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 138,
+    "phrase": "be conscious of",
+    "raw": "be conscious of(=be aware of)觉察,知道",
+    "synonyms": "be aware of",
+    "meaning": "觉察,知道",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 139,
+    "phrase": "consent to",
+    "raw": "consent to(=give agreement to permission)同意",
+    "synonyms": "give agreement to permission",
+    "meaning": "同意",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 140,
+    "phrase": "in consequence",
+    "raw": "in consequence (=as a result) 结果",
+    "synonyms": "as a result",
+    "meaning": "结果",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 141,
+    "phrase": "in consequence of",
+    "raw": "in consequence of (=as a consequence of)由于…的结果",
+    "synonyms": "as a consequence of",
+    "meaning": "由于…的结果",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 142,
+    "phrase": "under consideration",
+    "raw": "under consideration 在考虑中",
+    "synonyms": "",
+    "meaning": "在考虑中",
+    "first_letter": "U",
+    "tag": "核心短語"
+  },
+  {
+    "id": 143,
+    "phrase": "in consideration of",
+    "raw": "in consideration of (=in return for, on account of, because of )由于",
+    "synonyms": "in return for, on account of, because of",
+    "meaning": "由于",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 144,
+    "phrase": "on no consideration(in no case)",
+    "raw": "on no consideration(in no case)无论如何也不",
+    "synonyms": "",
+    "meaning": "无论如何也不",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 145,
+    "phrase": "take…into consideration",
+    "raw": "take…into consideration (=take account of, take…into account)考虑到, 把…考虑进去",
+    "synonyms": "take account of, take…into account",
+    "meaning": "考虑到, 把…考虑进去",
+    "first_letter": "T",
+    "tag": "同義替換"
+  },
+  {
+    "id": 146,
+    "phrase": "considerate",
+    "raw": "considerate (=thoughtful of the needs) 体贴的, 考虑他人需要的, considerable相当大的,值得考虑的",
+    "synonyms": "thoughtful of the needs",
+    "meaning": "体贴的, 考虑他人需要的, considerable相当大的,值得考虑的",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 147,
+    "phrase": "consist of",
+    "raw": "consist of(=be composed of)由…组成的. consist in主要在于. consist with符合,与…一致",
+    "synonyms": "be composed of",
+    "meaning": "由…组成的. consist in主要在于. consist with符合,与…一致",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 148,
+    "phrase": "be consistent with",
+    "raw": "be consistent with(=be in agreement with)与…一致. be consistent in一贯的,",
+    "synonyms": "be in agreement with",
+    "meaning": "与…一致. be consistent in一贯的,",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 149,
+    "phrase": "consult sb. on/ about sth",
+    "raw": "consult sb. on/ about sth. 向…征求…方面的意见, 就…向…请教",
+    "synonyms": "",
+    "meaning": "向…征求…方面的意见, 就…向…请教",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 150,
+    "phrase": "to one’s heart’s content",
+    "raw": "to one’s heart’s content尽情地,痛痛快快",
+    "synonyms": "",
+    "meaning": "尽情地,痛痛快快",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 151,
+    "phrase": "be content with",
+    "raw": "be content with(=be satisfied with) 满足于be content to do sth. 愿意做某事",
+    "synonyms": "be satisfied with",
+    "meaning": "满足于be content to do sth. 愿意做某事",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 152,
+    "phrase": "contrary to",
+    "raw": "contrary to (=in opposition to) 与…相反",
+    "synonyms": "in opposition to",
+    "meaning": "与…相反",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 153,
+    "phrase": "on the contrary",
+    "raw": "on the contrary 相反",
+    "synonyms": "",
+    "meaning": "相反",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 154,
+    "phrase": "contrast…with",
+    "raw": "contrast…with 把…与…相对(对照)",
+    "synonyms": "",
+    "meaning": "把…与…相对(对照)",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 155,
+    "phrase": "in contrast to/with",
+    "raw": "in contrast to/with 和…形成对比 \nby contrast 对比之下",
+    "synonyms": "",
+    "meaning": "和…形成对比 \nby contrast 对比之下",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 156,
+    "phrase": "contribute to",
+    "raw": "contribute to 有助于",
+    "synonyms": "",
+    "meaning": "有助于",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 157,
+    "phrase": "under control (",
+    "raw": "under control (被)控制住 out of control无法控制",
+    "synonyms": "",
+    "meaning": "被)控制住 out of control无法控制",
+    "first_letter": "U",
+    "tag": "核心短語"
+  },
+  {
+    "id": 158,
+    "phrase": "at one’s convenience",
+    "raw": "at one’s convenience(=where and when it suits one) 在方便的时间或地点 . be convenient to / for 对…方便",
+    "synonyms": "where and when it suits one",
+    "meaning": "在方便的时间或地点 . be convenient to / for 对…方便",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 159,
+    "phrase": "convince sb. of",
+    "raw": "convince sb. of (=cause sb. to believe or feel certain; to persuade sb.)使某人确信,try to persuade sb. to do sth.劝说某人做…",
+    "synonyms": "cause sb. to believe or feel certain; to persuade sb.",
+    "meaning": "使某人确信,try to persuade sb. to do sth.劝说某人做…",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 160,
+    "phrase": "cope with",
+    "raw": "cope with(=deal with, try to find a solution to)应付, 处理",
+    "synonyms": "deal with, try to find a solution to",
+    "meaning": "应付, 处理",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 161,
+    "phrase": "in the corner(of)",
+    "raw": "in the corner(of)在角落里;on(at) the comer of a street在街道拐弯处;round the comer拐过弯; be in a tight corner陷入困境",
+    "synonyms": "",
+    "meaning": "在角落里;on(at) the comer of a street在街道拐弯处;round the comer拐过弯; be in a tight corner陷入困境",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 162,
+    "phrase": "correspond (with) ( =exchange letters regularly)",
+    "raw": "correspond (with) ( =exchange letters regularly) 通信",
+    "synonyms": "",
+    "meaning": "通信",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 163,
+    "phrase": "correspond to",
+    "raw": "correspond to 相当于 . correspond with 符合,一致",
+    "synonyms": "",
+    "meaning": "相当于 . correspond with 符合,一致",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 164,
+    "phrase": "at all costs",
+    "raw": "at all costs不惜任何代价 . at the cost of 以…为代价",
+    "synonyms": "",
+    "meaning": "不惜任何代价 . at the cost of 以…为代价",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 165,
+    "phrase": "a matter of course",
+    "raw": "a matter of course 理所当然的事",
+    "synonyms": "",
+    "meaning": "理所当然的事",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 166,
+    "phrase": "as a matter of course",
+    "raw": "as a matter of course 当然地, 自然地",
+    "synonyms": "",
+    "meaning": "当然地, 自然地",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 167,
+    "phrase": "in (during) the course",
+    "raw": "in (during) the course 在…过程中",
+    "synonyms": "",
+    "meaning": "在…过程中",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 168,
+    "phrase": "in due course",
+    "raw": "in due course (=without too much delay) 没经过太久, 到一定时候",
+    "synonyms": "without too much delay",
+    "meaning": "没经过太久, 到一定时候",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 169,
+    "phrase": "on credit",
+    "raw": "on credit赊购; with credit以优异成绩; to one’s credit使某人感到光荣; do sb. credit 使…感到光荣",
+    "synonyms": "",
+    "meaning": "赊购; with credit以优异成绩; to one’s credit使某人感到光荣; do sb. credit 使…感到光荣",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 170,
+    "phrase": "be critical of",
+    "raw": "be critical of 爱挑毛病的，批评的",
+    "synonyms": "",
+    "meaning": "爱挑毛病的，批评的",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 171,
+    "phrase": "cure sb. of+",
+    "raw": "cure sb. of+某种疾病 治好某人的疾病",
+    "synonyms": "",
+    "meaning": "某种疾病 治好某人的疾病",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 172,
+    "phrase": "a danger to",
+    "raw": "a danger to对…的危险; be in danger(of)处于…危险中; be out of danger脱离危险",
+    "synonyms": "",
+    "meaning": "对…的危险; be in danger(of)处于…危险中; be out of danger脱离危险",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 173,
+    "phrase": "to date",
+    "raw": "to date(=so far, until now) 到目前为止",
+    "synonyms": "so far, until now",
+    "meaning": "到目前为止",
+    "first_letter": "T",
+    "tag": "同義替換"
+  },
+  {
+    "id": 174,
+    "phrase": "out of date",
+    "raw": "out of date过时的；up to date新式的,时兴的; date back to可追溯到; date from从某时期开始(有)",
+    "synonyms": "",
+    "meaning": "过时的；up to date新式的,时兴的; date back to可追溯到; date from从某时期开始(有)",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 175,
+    "phrase": "deal with",
+    "raw": "deal with (=concern) 论及",
+    "synonyms": "concern",
+    "meaning": "论及",
+    "first_letter": "D",
+    "tag": "同義替換"
+  },
+  {
+    "id": 176,
+    "phrase": "be in debt to sb",
+    "raw": "be in debt to sb. 欠…的债",
+    "synonyms": "",
+    "meaning": "欠…的债",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 177,
+    "phrase": "on the decline",
+    "raw": "on the decline 在衰退中, 在减少中 \nin decline 下降; on the increase 在增加",
+    "synonyms": "",
+    "meaning": "在衰退中, 在减少中 \nin decline 下降; on the increase 在增加",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 178,
+    "phrase": "to one’s delight",
+    "raw": "to one’s delight 令某人感到高兴 \nto one’s regret 遗憾; sorrow悲痛; relief 安心; distress 苦恼; shame羞愧; surprise 惊奇; astonishment 惊奇;",
+    "synonyms": "",
+    "meaning": "令某人感到高兴 \nto one’s regret 遗憾; sorrow悲痛; relief 安心; distress 苦恼; shame羞愧; surprise 惊奇; astonishment 惊奇;",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 179,
+    "phrase": "delight in",
+    "raw": "delight in(=take great pleasure in doing sth.)喜欢, 取乐",
+    "synonyms": "take great pleasure in doing sth.",
+    "meaning": "喜欢, 取乐",
+    "first_letter": "D",
+    "tag": "同義替換"
+  },
+  {
+    "id": 180,
+    "phrase": "take (a) delight in",
+    "raw": "take (a) delight in 喜欢干…, 以…为乐",
+    "synonyms": "",
+    "meaning": "喜欢干…, 以…为乐",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 181,
+    "phrase": "demand sth. of sb",
+    "raw": "demand sth. of sb. 向某人要求(非物质的)东西. demand sth. from sb. 向某人要求(物质的)东西",
+    "synonyms": "",
+    "meaning": "向某人要求(非物质的)东西. demand sth. from sb. 向某人要求(物质的)东西",
+    "first_letter": "D",
+    "tag": "核心短語"
+  },
+  {
+    "id": 182,
+    "phrase": "in demand",
+    "raw": "in demand有需求;on demand受到要求时",
+    "synonyms": "",
+    "meaning": "有需求;on demand受到要求时",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 183,
+    "phrase": "be dependent on",
+    "raw": "be dependent on 依靠",
+    "synonyms": "",
+    "meaning": "依靠",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 184,
+    "phrase": "deprive sb. of sth",
+    "raw": "deprive sb. of sth. 剥夺某人某物",
+    "synonyms": "",
+    "meaning": "剥夺某人某物",
+    "first_letter": "D",
+    "tag": "核心短語"
+  },
+  {
+    "id": 185,
+    "phrase": "derive…from",
+    "raw": "derive…from(=obtain…from)从…取得,由…来的.derive from(=come from)起源于",
+    "synonyms": "obtain…from",
+    "meaning": "从…取得,由…来的.derive from(=come from)起源于",
+    "first_letter": "D",
+    "tag": "同義替換"
+  },
+  {
+    "id": 186,
+    "phrase": "despair of",
+    "raw": "despair of (=lose all hope of) 绝望",
+    "synonyms": "lose all hope of",
+    "meaning": "绝望",
+    "first_letter": "D",
+    "tag": "同義替換"
+  },
+  {
+    "id": 187,
+    "phrase": "in despair",
+    "raw": "in despair 绝望",
+    "synonyms": "",
+    "meaning": "绝望",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 188,
+    "phrase": "despite",
+    "raw": "despite (=in spite of) 不管, 尽管",
+    "synonyms": "in spite of",
+    "meaning": "不管, 尽管",
+    "first_letter": "D",
+    "tag": "同義替換"
+  },
+  {
+    "id": 189,
+    "phrase": "in detail",
+    "raw": "in detail 详细地",
+    "synonyms": "",
+    "meaning": "详细地",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 190,
+    "phrase": "deviate from",
+    "raw": "deviate from 偏离, 不按…办",
+    "synonyms": "",
+    "meaning": "偏离, 不按…办",
+    "first_letter": "D",
+    "tag": "核心短語"
+  },
+  {
+    "id": 191,
+    "phrase": "on a diet",
+    "raw": "on a diet 吃某种特殊饮食, 节食",
+    "synonyms": "",
+    "meaning": "吃某种特殊饮食, 节食",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 192,
+    "phrase": "differ from…in",
+    "raw": "differ from…in 与…的区别在于…",
+    "synonyms": "",
+    "meaning": "与…的区别在于…",
+    "first_letter": "D",
+    "tag": "核心短語"
+  },
+  {
+    "id": 193,
+    "phrase": "in difficulties…",
+    "raw": "in difficulties…有困难,处境困难,",
+    "synonyms": "",
+    "meaning": "有困难,处境困难,",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 194,
+    "phrase": "discharge sb. (from)…for",
+    "raw": "discharge sb. (from)…for (=dismiss sb. from a job for) 因…解雇, 开除",
+    "synonyms": "dismiss sb. from a job for",
+    "meaning": "因…解雇, 开除",
+    "first_letter": "D",
+    "tag": "同義替換"
+  },
+  {
+    "id": 195,
+    "phrase": "fall back",
+    "raw": "fall back (=retreat, turn back) 撤退; \nin disorder 慌乱地, 狼狈不堪",
+    "synonyms": "retreat, turn back",
+    "meaning": "撤退; \nin disorder 慌乱地, 狼狈不堪",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 196,
+    "phrase": "on display",
+    "raw": "on display(=being shown publicly)陈列",
+    "synonyms": "being shown publicly",
+    "meaning": "陈列",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 197,
+    "phrase": "dispose of",
+    "raw": "dispose of (=get rid of ,throw away)处理掉",
+    "synonyms": "get rid of ,throw away",
+    "meaning": "处理掉",
+    "first_letter": "D",
+    "tag": "同義替換"
+  },
+  {
+    "id": 198,
+    "phrase": "beyond dispute",
+    "raw": "beyond dispute不容争议的,无可争议",
+    "synonyms": "",
+    "meaning": "不容争议的,无可争议",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 199,
+    "phrase": "in dispute",
+    "raw": "in dispute 在争议中",
+    "synonyms": "",
+    "meaning": "在争议中",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 200,
+    "phrase": "in the distance",
+    "raw": "in the distance 在远处. make out 辩认出",
+    "synonyms": "",
+    "meaning": "在远处. make out 辩认出",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 201,
+    "phrase": "(be) distinct from ( = be different from)",
+    "raw": "(be) distinct from ( = be different from) 与…截然不同",
+    "synonyms": "",
+    "meaning": "与…截然不同",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 202,
+    "phrase": "distinguish between",
+    "raw": "distinguish between (=make or recognize differences) 辨别",
+    "synonyms": "make or recognize differences",
+    "meaning": "辨别",
+    "first_letter": "D",
+    "tag": "同義替換"
+  },
+  {
+    "id": 203,
+    "phrase": "distinguish…from",
+    "raw": "distinguish…from 把…与…区别开",
+    "synonyms": "",
+    "meaning": "把…与…区别开",
+    "first_letter": "D",
+    "tag": "核心短語"
+  },
+  {
+    "id": 204,
+    "phrase": "do away with",
+    "raw": "do away with(=get rid of; abolish; discard eliminate) 除去,废除,取消; do away with (=kill) 杀掉, 镇压",
+    "synonyms": "get rid of; abolish; discard eliminate",
+    "meaning": "除去,废除,取消; do away with (=kill) 杀掉, 镇压",
+    "first_letter": "D",
+    "tag": "同義替換"
+  },
+  {
+    "id": 205,
+    "phrase": "have…to do with",
+    "raw": "have…to do with 与…有关系",
+    "synonyms": "",
+    "meaning": "与…有关系",
+    "first_letter": "H",
+    "tag": "核心短語"
+  },
+  {
+    "id": 206,
+    "phrase": "without doubt",
+    "raw": "without doubt (=undoubtedly)无可置疑地",
+    "synonyms": "undoubtedly",
+    "meaning": "无可置疑地",
+    "first_letter": "W",
+    "tag": "同義替換"
+  },
+  {
+    "id": 207,
+    "phrase": "in doubt",
+    "raw": "in doubt(=in a condition of uncertainty)对…表示疑惑",
+    "synonyms": "in a condition of uncertainty",
+    "meaning": "对…表示疑惑",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 208,
+    "phrase": "be due to",
+    "raw": "be due to 是由于",
+    "synonyms": "",
+    "meaning": "是由于",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 209,
+    "phrase": "come off duty",
+    "raw": "come off duty 下班",
+    "synonyms": "",
+    "meaning": "下班",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 210,
+    "phrase": "go on duty",
+    "raw": "go on duty 上班",
+    "synonyms": "",
+    "meaning": "上班",
+    "first_letter": "G",
+    "tag": "核心短語"
+  },
+  {
+    "id": 211,
+    "phrase": "be on duty",
+    "raw": "be on duty 值班, 值日, 在上班时",
+    "synonyms": "",
+    "meaning": "值班, 值日, 在上班时",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 212,
+    "phrase": "be in duty bound to (do)",
+    "raw": "be in duty bound to (do) (=be required by one’s job or esp. by conscience) 有义务(做)",
+    "synonyms": "be required by one’s job or esp. by conscience",
+    "meaning": "有义务(做)",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 213,
+    "phrase": "be eager for",
+    "raw": "be eager for 想得到, 盼望",
+    "synonyms": "",
+    "meaning": "想得到, 盼望",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 214,
+    "phrase": "by ear",
+    "raw": "by ear (=play music from memory without having seen it printed) 凭记忆,不看乐谱",
+    "synonyms": "play music from memory without having seen it printed",
+    "meaning": "凭记忆,不看乐谱",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 215,
+    "phrase": "have an ear for",
+    "raw": "have an ear for (=have keen recognition of sounds esp. in music and language)对..有鉴赏力",
+    "synonyms": "have keen recognition of sounds esp. in music and language",
+    "meaning": "对..有鉴赏力",
+    "first_letter": "H",
+    "tag": "同義替換"
+  },
+  {
+    "id": 216,
+    "phrase": "a word in one’s ear",
+    "raw": "a word in one’s ear 私房话, 秘密话",
+    "synonyms": "",
+    "meaning": "私房话, 秘密话",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 217,
+    "phrase": "on earth",
+    "raw": "on earth 究竟, 到底, 全然",
+    "synonyms": "",
+    "meaning": "究竟, 到底, 全然",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 218,
+    "phrase": "with ease ( = easily)",
+    "raw": "with ease ( = easily) 容易, 不费力",
+    "synonyms": "",
+    "meaning": "容易, 不费力",
+    "first_letter": "W",
+    "tag": "核心短語"
+  },
+  {
+    "id": 219,
+    "phrase": "at (one’s) ease ( = without worry or nervousness)",
+    "raw": "at (one’s) ease ( = without worry or nervousness) 自在,不拘束",
+    "synonyms": "",
+    "meaning": "自在,不拘束",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 220,
+    "phrase": "put sb. at his / her ease",
+    "raw": "put sb. at his / her ease (=free sb. from worry or nervousness)使某人感到无拘束",
+    "synonyms": "free sb. from worry or nervousness",
+    "meaning": "使某人感到无拘束",
+    "first_letter": "P",
+    "tag": "同義替換"
+  },
+  {
+    "id": 221,
+    "phrase": "economize on",
+    "raw": "economize on (=save sth. instead of being wasteful) 节省",
+    "synonyms": "save sth. instead of being wasteful",
+    "meaning": "节省",
+    "first_letter": "E",
+    "tag": "同義替換"
+  },
+  {
+    "id": 222,
+    "phrase": "have an effect on",
+    "raw": "have an effect on 对…有影响",
+    "synonyms": "",
+    "meaning": "对…有影响",
+    "first_letter": "H",
+    "tag": "核心短語"
+  },
+  {
+    "id": 223,
+    "phrase": "be in effect",
+    "raw": "be in effect (=be in operation) 有效",
+    "synonyms": "be in operation",
+    "meaning": "有效",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 224,
+    "phrase": "go into effect",
+    "raw": "go into effect 生效. ( 近: come into effect; take effect; be brought into effect)",
+    "synonyms": "",
+    "meaning": "生效. ( 近: come into effect; take effect; be brought into effect)",
+    "first_letter": "G",
+    "tag": "同義替換"
+  },
+  {
+    "id": 225,
+    "phrase": "in effect",
+    "raw": "in effect (=in fact, really) 实际上",
+    "synonyms": "in fact, really",
+    "meaning": "实际上",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 226,
+    "phrase": "give effect to",
+    "raw": "give effect to (=carry out) 实行,使…生效",
+    "synonyms": "carry out",
+    "meaning": "实行,使…生效",
+    "first_letter": "G",
+    "tag": "同義替換"
+  },
+  {
+    "id": 227,
+    "phrase": "to no effect",
+    "raw": "to no effect 不起作用,没有取得任何效果",
+    "synonyms": "",
+    "meaning": "不起作用,没有取得任何效果",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 228,
+    "phrase": "(be) of no effect",
+    "raw": "(be) of no effect (=useless) 无效",
+    "synonyms": "useless",
+    "meaning": "无效",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 229,
+    "phrase": "to the effect that",
+    "raw": "to the effect that 大意是…,主要内容是…",
+    "synonyms": "",
+    "meaning": "大意是…,主要内容是…",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 230,
+    "phrase": "to that effect",
+    "raw": "to that effect 是那个意思的…",
+    "synonyms": "",
+    "meaning": "是那个意思的…",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 231,
+    "phrase": "emerge from ( =appear, become known )",
+    "raw": "emerge from ( =appear, become known ) 出现, 暴露(问题. 意见等)",
+    "synonyms": "",
+    "meaning": "出现, 暴露(问题. 意见等)",
+    "first_letter": "E",
+    "tag": "核心短語"
+  },
+  {
+    "id": 232,
+    "phrase": "place(or put, lay) an emphasis on",
+    "raw": "place(or put, lay) an emphasis on 强调, 把重点放在…上",
+    "synonyms": "",
+    "meaning": "强调, 把重点放在…上",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 233,
+    "phrase": "encourage sb. in",
+    "raw": "encourage sb. in 鼓励; encourage sb. in his/her work 鼓励某人工作; encourage sb. in his/her idleness 怂恿某人游手好闲",
+    "synonyms": "",
+    "meaning": "鼓励; encourage sb. in his/her work 鼓励某人工作; encourage sb. in his/her idleness 怂恿某人游手好闲",
+    "first_letter": "E",
+    "tag": "核心短語"
+  },
+  {
+    "id": 234,
+    "phrase": "encourage sb. in …with sth",
+    "raw": "encourage sb. in …with sth. 用…鼓励某人做某事",
+    "synonyms": "",
+    "meaning": "用…鼓励某人做某事",
+    "first_letter": "E",
+    "tag": "核心短語"
+  },
+  {
+    "id": 235,
+    "phrase": "on end",
+    "raw": "on end (=continuously) 连续地",
+    "synonyms": "continuously",
+    "meaning": "连续地",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 236,
+    "phrase": "(be) at an end",
+    "raw": "(be) at an end (=finished) 结束了",
+    "synonyms": "finished",
+    "meaning": "结束了",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 237,
+    "phrase": "no end of",
+    "raw": "no end of (=very many/much) 很多,大量",
+    "synonyms": "very many/much",
+    "meaning": "很多,大量",
+    "first_letter": "N",
+    "tag": "同義替換"
+  },
+  {
+    "id": 238,
+    "phrase": "in the end",
+    "raw": "in the end (=finally, eventually) 最终",
+    "synonyms": "finally, eventually",
+    "meaning": "最终",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 239,
+    "phrase": "at one’s wit’s end",
+    "raw": "at one’s wit’s end (=not knowing what to do or to say) 无法可想, 智穷计尽",
+    "synonyms": "not knowing what to do or to say",
+    "meaning": "无法可想, 智穷计尽",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 240,
+    "phrase": "end up with",
+    "raw": "end up with 以…而结束",
+    "synonyms": "",
+    "meaning": "以…而结束",
+    "first_letter": "E",
+    "tag": "核心短語"
+  },
+  {
+    "id": 241,
+    "phrase": "come to and end",
+    "raw": "come to and end (=finish) 结束",
+    "synonyms": "finish",
+    "meaning": "结束",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 242,
+    "phrase": "end in",
+    "raw": "end in 以…为结束",
+    "synonyms": "",
+    "meaning": "以…为结束",
+    "first_letter": "E",
+    "tag": "核心短語"
+  },
+  {
+    "id": 243,
+    "phrase": "engage in",
+    "raw": "engage in 或 be engaged in 忙于,从事",
+    "synonyms": "",
+    "meaning": "或 be engaged in 忙于,从事",
+    "first_letter": "E",
+    "tag": "核心短語"
+  },
+  {
+    "id": 244,
+    "phrase": "enter for",
+    "raw": "enter for (=put the name on a list for) 报名参加",
+    "synonyms": "put the name on a list for",
+    "meaning": "报名参加",
+    "first_letter": "E",
+    "tag": "同義替換"
+  },
+  {
+    "id": 245,
+    "phrase": "enter into",
+    "raw": "enter into (=begin) 开始(谈话, 谈判等)",
+    "synonyms": "begin",
+    "meaning": "开始(谈话, 谈判等)",
+    "first_letter": "E",
+    "tag": "同義替換"
+  },
+  {
+    "id": 246,
+    "phrase": "enter on / upon",
+    "raw": "enter on / upon (=begin) 开始 (一个时代. 一种涯. 一段任期等)",
+    "synonyms": "begin",
+    "meaning": "开始 (一个时代. 一种涯. 一段任期等)",
+    "first_letter": "E",
+    "tag": "同義替換"
+  },
+  {
+    "id": 247,
+    "phrase": "be entitled to",
+    "raw": "be entitled to (=be given the right to do sth.)有权…,有资格…",
+    "synonyms": "be given the right to do sth.",
+    "meaning": "有权…,有资格…",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 248,
+    "phrase": "be equal to",
+    "raw": "be equal to 等于",
+    "synonyms": "",
+    "meaning": "等于",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 249,
+    "phrase": "be/ feel equal to (",
+    "raw": "be/ feel equal to (=have enough strength, ability etc.) (某人)能胜任,能应付 \non equal terms(=on and equal footing)平等地",
+    "synonyms": "have enough strength, ability etc.",
+    "meaning": "某人)能胜任,能应付 \non equal terms(=on and equal footing)平等地",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 250,
+    "phrase": "be equipped with",
+    "raw": "be equipped with 装备有,装有",
+    "synonyms": "",
+    "meaning": "装备有,装有",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 251,
+    "phrase": "(be) equivalent to",
+    "raw": "(be) equivalent to(=equal in value, amount, meaning) 相等于, 相当于",
+    "synonyms": "equal in value, amount, meaning",
+    "meaning": "相等于, 相当于",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 252,
+    "phrase": "in essence",
+    "raw": "in essence (=in its/one’s nature) 本质上",
+    "synonyms": "in its/one’s nature",
+    "meaning": "本质上",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 253,
+    "phrase": "at all events",
+    "raw": "at all events (=in spite of everything, in any case) 不论怎样, 无论如何",
+    "synonyms": "in spite of everything, in any case",
+    "meaning": "不论怎样, 无论如何",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 254,
+    "phrase": "in any event",
+    "raw": "in any event (=whatever happens in the future) 无论如何, 不管(将来)怎么样",
+    "synonyms": "whatever happens in the future",
+    "meaning": "无论如何, 不管(将来)怎么样",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 255,
+    "phrase": "in the event that",
+    "raw": "in the event that(=if) 假如, 如果. in the event 结果, 实际情况是(常与but连用)",
+    "synonyms": "if",
+    "meaning": "假如, 如果. in the event 结果, 实际情况是(常与but连用)",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 256,
+    "phrase": "in the event of",
+    "raw": "in the event of(=in case of)万一,即使发生..时",
+    "synonyms": "in case of",
+    "meaning": "万一,即使发生..时",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 257,
+    "phrase": "except",
+    "raw": "except 除…以外; besides 除…以外还有..",
+    "synonyms": "",
+    "meaning": "除…以外; besides 除…以外还有..",
+    "first_letter": "E",
+    "tag": "核心短語"
+  },
+  {
+    "id": 258,
+    "phrase": "except",
+    "raw": "except (=but) 除了。",
+    "synonyms": "but",
+    "meaning": "除了。",
+    "first_letter": "E",
+    "tag": "同義替換"
+  },
+  {
+    "id": 259,
+    "phrase": "except for",
+    "raw": "except for (=apart from) 除…以外",
+    "synonyms": "apart from",
+    "meaning": "除…以外",
+    "first_letter": "E",
+    "tag": "同義替換"
+  },
+  {
+    "id": 260,
+    "phrase": "(an) exception to …",
+    "raw": "(an) exception to …的例外",
+    "synonyms": "",
+    "meaning": "的例外",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 261,
+    "phrase": "with the exception of",
+    "raw": "with the exception of (=except, apart from) 除去…., 除…以外",
+    "synonyms": "except, apart from",
+    "meaning": "除去…., 除…以外",
+    "first_letter": "W",
+    "tag": "同義替換"
+  },
+  {
+    "id": 262,
+    "phrase": "in excess of",
+    "raw": "in excess of (=more than) 超过",
+    "synonyms": "more than",
+    "meaning": "超过",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 263,
+    "phrase": "exchange…for",
+    "raw": "exchange…for 以…交换",
+    "synonyms": "",
+    "meaning": "以…交换",
+    "first_letter": "E",
+    "tag": "核心短語"
+  },
+  {
+    "id": 264,
+    "phrase": "exclusive of",
+    "raw": "exclusive of (=not taking into account; without) 不包括",
+    "synonyms": "not taking into account; without",
+    "meaning": "不包括",
+    "first_letter": "E",
+    "tag": "同義替換"
+  },
+  {
+    "id": 265,
+    "phrase": "in excuse of",
+    "raw": "in excuse of 作为…的借口",
+    "synonyms": "",
+    "meaning": "作为…的借口",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 266,
+    "phrase": "exert…on…",
+    "raw": "exert…on… 对…施加…",
+    "synonyms": "",
+    "meaning": "对…施加…",
+    "first_letter": "E",
+    "tag": "核心短語"
+  },
+  {
+    "id": 267,
+    "phrase": "exert oneself to do sth",
+    "raw": "exert oneself to do sth. 努力,使劲",
+    "synonyms": "",
+    "meaning": "努力,使劲",
+    "first_letter": "E",
+    "tag": "核心短語"
+  },
+  {
+    "id": 268,
+    "phrase": "come into existence",
+    "raw": "come into existence (=begin to exist)开始存在; come into use开始使用; come into effect开始运转; come into fashion开始时新; come into action开始行动; come into power开始执政; come into sight进入视野;come into blossom开花;",
+    "synonyms": "begin to exist",
+    "meaning": "开始存在; come into use开始使用; come into effect开始运转; come into fashion开始时新; come into action开始行动; come into power开始执政; come into sight进入视野;come into blossom开花;",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 269,
+    "phrase": "(be) in existence",
+    "raw": "(be) in existence存在 come into existence 出现",
+    "synonyms": "",
+    "meaning": "存在 come into existence 出现",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 270,
+    "phrase": "expect…of",
+    "raw": "expect…of 在…期望…",
+    "synonyms": "",
+    "meaning": "在…期望…",
+    "first_letter": "E",
+    "tag": "核心短語"
+  },
+  {
+    "id": 271,
+    "phrase": "at the expense of",
+    "raw": "at the expense of在损害…情况下,以…为牺牲",
+    "synonyms": "",
+    "meaning": "在损害…情况下,以…为牺牲",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 272,
+    "phrase": "expose…to…",
+    "raw": "expose…to…使暴露于…, 使…受(危险,风险)",
+    "synonyms": "",
+    "meaning": "使暴露于…, 使…受(危险,风险)",
+    "first_letter": "E",
+    "tag": "核心短語"
+  },
+  {
+    "id": 273,
+    "phrase": "be exposed to…",
+    "raw": "be exposed to… 面临…, 受到….",
+    "synonyms": "",
+    "meaning": "面临…, 受到….",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 274,
+    "phrase": "beyond expression",
+    "raw": "beyond expression (=in a manner that cannot be expressed) 无法形容, 说不出的",
+    "synonyms": "in a manner that cannot be expressed",
+    "meaning": "无法形容, 说不出的",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 275,
+    "phrase": "give expression to",
+    "raw": "give expression to 表达, 表现 \nfind expression in 表现",
+    "synonyms": "",
+    "meaning": "表达, 表现 \nfind expression in 表现",
+    "first_letter": "G",
+    "tag": "核心短語"
+  },
+  {
+    "id": 276,
+    "phrase": "to …extent",
+    "raw": "to …extent 在…程度上",
+    "synonyms": "",
+    "meaning": "在…程度上",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 277,
+    "phrase": "in the extreme",
+    "raw": "in the extreme (= extremely) 极其",
+    "synonyms": "extremely",
+    "meaning": "极其",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 278,
+    "phrase": "look sb. in the eye",
+    "raw": "look sb. in the eye 正视, 打量(某人)",
+    "synonyms": "",
+    "meaning": "正视, 打量(某人)",
+    "first_letter": "L",
+    "tag": "核心短語"
+  },
+  {
+    "id": 279,
+    "phrase": "close (shut) one’s eyes to",
+    "raw": "close (shut) one’s eyes to不理会,视而不见",
+    "synonyms": "",
+    "meaning": "不理会,视而不见",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 280,
+    "phrase": "in one’s mind’s eye",
+    "raw": "in one’s mind’s eye 在心目中, 在想象中",
+    "synonyms": "",
+    "meaning": "在心目中, 在想象中",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 281,
+    "phrase": "in the twinkling of an eye",
+    "raw": "in the twinkling of an eye 一眨眼,转眼间",
+    "synonyms": "",
+    "meaning": "一眨眼,转眼间",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 282,
+    "phrase": "keep an eye on",
+    "raw": "keep an eye on(=keep a watch on)照看,监视",
+    "synonyms": "keep a watch on",
+    "meaning": "照看,监视",
+    "first_letter": "K",
+    "tag": "同義替換"
+  },
+  {
+    "id": 283,
+    "phrase": "in the eyes of in one’s eyes ( = in the judgment of )",
+    "raw": "in the eyes of in one’s eyes ( = in the judgment of ) 在某人看来, 在某人眼里",
+    "synonyms": "",
+    "meaning": "在某人看来, 在某人眼里",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 284,
+    "phrase": "on the face of it",
+    "raw": "on the face of it (=judging by what one can see) 表面看来",
+    "synonyms": "judging by what one can see",
+    "meaning": "表面看来",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 285,
+    "phrase": "in the face of",
+    "raw": "in the face of 面对着(困难等情况)",
+    "synonyms": "",
+    "meaning": "面对着(困难等情况)",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 286,
+    "phrase": "in one’s face",
+    "raw": "in one’s face当着某人的面; face to faced面对面; face up to 大胆面向",
+    "synonyms": "",
+    "meaning": "当着某人的面; face to faced面对面; face up to 大胆面向",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 287,
+    "phrase": "fail in",
+    "raw": "fail in (=be unsuccessful in) 失败",
+    "synonyms": "be unsuccessful in",
+    "meaning": "失败",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 288,
+    "phrase": "in good faith",
+    "raw": "in good faith(=honestly, sincerely) 真诚地",
+    "synonyms": "honestly, sincerely",
+    "meaning": "真诚地",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 289,
+    "phrase": "keep faith with",
+    "raw": "keep faith with 对…守信用",
+    "synonyms": "",
+    "meaning": "对…守信用",
+    "first_letter": "K",
+    "tag": "核心短語"
+  },
+  {
+    "id": 290,
+    "phrase": "lose faith in",
+    "raw": "lose faith in 对…失去信心",
+    "synonyms": "",
+    "meaning": "对…失去信心",
+    "first_letter": "L",
+    "tag": "核心短語"
+  },
+  {
+    "id": 291,
+    "phrase": "on faith",
+    "raw": "on faith 毫无怀疑地, 依赖地",
+    "synonyms": "",
+    "meaning": "毫无怀疑地, 依赖地",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 292,
+    "phrase": "faithful to",
+    "raw": "faithful to (=loyal to) 对…忠诚",
+    "synonyms": "loyal to",
+    "meaning": "对…忠诚",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 293,
+    "phrase": "fall into the habit (of)",
+    "raw": "fall into the habit (of) 养成…习惯",
+    "synonyms": "",
+    "meaning": "养成…习惯",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 294,
+    "phrase": "fall short of",
+    "raw": "fall short of (=fail to reach a desired result, standard, etc.) 没达到, 低于",
+    "synonyms": "fail to reach a desired result, standard, etc.",
+    "meaning": "没达到, 低于",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 295,
+    "phrase": "familiar with",
+    "raw": "familiar with 熟悉,了解",
+    "synonyms": "",
+    "meaning": "熟悉,了解",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 296,
+    "phrase": "have a fancy for ( =like sth. without the help of reason) (",
+    "raw": "have a fancy for ( =like sth. without the help of reason) (没有道理地)喜欢, 想要",
+    "synonyms": "",
+    "meaning": "没有道理地)喜欢, 想要",
+    "first_letter": "H",
+    "tag": "核心短語"
+  },
+  {
+    "id": 297,
+    "phrase": "take a fancy to",
+    "raw": "take a fancy to (=become fond of) 喜欢",
+    "synonyms": "become fond of",
+    "meaning": "喜欢",
+    "first_letter": "T",
+    "tag": "同義替換"
+  },
+  {
+    "id": 298,
+    "phrase": "by far",
+    "raw": "by far 远, 非常 (与比较级或最高级连用)",
+    "synonyms": "",
+    "meaning": "远, 非常 (与比较级或最高级连用)",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 299,
+    "phrase": "far from",
+    "raw": "far from 远远不是",
+    "synonyms": "",
+    "meaning": "远远不是",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 300,
+    "phrase": "far from",
+    "raw": "far from 非但不…(而且)",
+    "synonyms": "",
+    "meaning": "非但不…(而且)",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 301,
+    "phrase": "in fashion",
+    "raw": "in fashion(=stylish, most modern)时兴,流行",
+    "synonyms": "stylish, most modern",
+    "meaning": "时兴,流行",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 302,
+    "phrase": "after the fashion (of)",
+    "raw": "after the fashion (of) 依照…",
+    "synonyms": "",
+    "meaning": "依照…",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 303,
+    "phrase": "find fault with",
+    "raw": "find fault with(=complain about; criticize)找毛病，对…吹毛求疵",
+    "synonyms": "complain about; criticize",
+    "meaning": "找毛病，对…吹毛求疵",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 304,
+    "phrase": "at fault",
+    "raw": "at fault (=in the wrong, blamable)有错",
+    "synonyms": "in the wrong, blamable",
+    "meaning": "有错",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 305,
+    "phrase": "in favour of",
+    "raw": "in favour of 赞成",
+    "synonyms": "",
+    "meaning": "赞成",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 306,
+    "phrase": "be in favour with",
+    "raw": "be in favour with 受宠, 受偏爱; \nout of favour with 失宠, 不受宠",
+    "synonyms": "",
+    "meaning": "受宠, 受偏爱; \nout of favour with 失宠, 不受宠",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 307,
+    "phrase": "in one’s favour",
+    "raw": "in one’s favour(=to one’s advantage)对.有利",
+    "synonyms": "to one’s advantage",
+    "meaning": "对.有利",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 308,
+    "phrase": "(be) favourable to",
+    "raw": "(be) favourable to(=advantageous)有利的",
+    "synonyms": "advantageous",
+    "meaning": "有利的",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 309,
+    "phrase": "fear for",
+    "raw": "fear for (=be afraid for the safety of sb. or sth.) 为…担心",
+    "synonyms": "be afraid for the safety of sb. or sth.",
+    "meaning": "为…担心",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 310,
+    "phrase": "for fear of",
+    "raw": "for fear of (=in case of; because of anxiety about) 以防, 由于怕",
+    "synonyms": "in case of; because of anxiety about",
+    "meaning": "以防, 由于怕",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 311,
+    "phrase": "in fear of",
+    "raw": "in fear of (=afraid for the safety of) 担心",
+    "synonyms": "afraid for the safety of",
+    "meaning": "担心",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 312,
+    "phrase": "feed (sb.) on sth",
+    "raw": "feed (sb.) on sth. 靠吃…, 用…喂养",
+    "synonyms": "",
+    "meaning": "靠吃…, 用…喂养",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 313,
+    "phrase": "be fed up with",
+    "raw": "be fed up with(=be unhappy, tired about sth. dull) 厌烦, 腻了",
+    "synonyms": "be unhappy, tired about sth. dull",
+    "meaning": "厌烦, 腻了",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 314,
+    "phrase": "feel like",
+    "raw": "feel like (=have a desire for) 想要",
+    "synonyms": "have a desire for",
+    "meaning": "想要",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 315,
+    "phrase": "fill in",
+    "raw": "fill in 填写",
+    "synonyms": "",
+    "meaning": "填写",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 316,
+    "phrase": "fill out ( =fill in )",
+    "raw": "fill out ( =fill in )填写",
+    "synonyms": "",
+    "meaning": "填写",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 317,
+    "phrase": "set the world on fire=set the flames on fire",
+    "raw": "set the world on fire=set the flames on fire(=do sth. remarkable)有突出成就",
+    "synonyms": "do sth. remarkable",
+    "meaning": "有突出成就",
+    "first_letter": "S",
+    "tag": "同義替換"
+  },
+  {
+    "id": 318,
+    "phrase": "play with fire",
+    "raw": "play with fire (=take great risks)干冒险事",
+    "synonyms": "take great risks",
+    "meaning": "干冒险事",
+    "first_letter": "P",
+    "tag": "同義替換"
+  },
+  {
+    "id": 319,
+    "phrase": "set sth. on fire",
+    "raw": "set sth. on fire(=set fire to sth.)使..着火,放火",
+    "synonyms": "set fire to sth.",
+    "meaning": "使..着火,放火",
+    "first_letter": "S",
+    "tag": "同義替換"
+  },
+  {
+    "id": 320,
+    "phrase": "at first sight",
+    "raw": "at first sight(=when first seen)乍一看,一见",
+    "synonyms": "when first seen",
+    "meaning": "乍一看,一见",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 321,
+    "phrase": "for the first time",
+    "raw": "for the first time 第一次 (作状语)",
+    "synonyms": "",
+    "meaning": "第一次 (作状语)",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 322,
+    "phrase": "in the first place",
+    "raw": "in the first place 首先, 第一",
+    "synonyms": "",
+    "meaning": "首先, 第一",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 323,
+    "phrase": "fit into",
+    "raw": "fit into 刚好放入",
+    "synonyms": "",
+    "meaning": "刚好放入",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 324,
+    "phrase": "fit in with ( = suit , fall into agreement)",
+    "raw": "fit in with ( = suit , fall into agreement) 合适, 相配, 一致",
+    "synonyms": "",
+    "meaning": "合适, 相配, 一致",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 325,
+    "phrase": "(be) fit for",
+    "raw": "(be) fit for (=right and suitable for) 适合",
+    "synonyms": "right and suitable for",
+    "meaning": "适合",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 326,
+    "phrase": "focus on",
+    "raw": "focus on (=concentrate on) 集中在…上 \nfocus sth. on 把…集中在…上",
+    "synonyms": "concentrate on",
+    "meaning": "集中在…上 \nfocus sth. on 把…集中在…上",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 327,
+    "phrase": "be fond of",
+    "raw": "be fond of 喜欢",
+    "synonyms": "",
+    "meaning": "喜欢",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 328,
+    "phrase": "(be) in force",
+    "raw": "(be) in force 有效 , 实施",
+    "synonyms": "",
+    "meaning": "有效 , 实施",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 329,
+    "phrase": "go into force",
+    "raw": "go into force 开始生效",
+    "synonyms": "",
+    "meaning": "开始生效",
+    "first_letter": "G",
+    "tag": "核心短語"
+  },
+  {
+    "id": 330,
+    "phrase": "by force",
+    "raw": "by force 靠武力, 强行",
+    "synonyms": "",
+    "meaning": "靠武力, 强行",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 331,
+    "phrase": "force…on",
+    "raw": "force…on 把…强加给…",
+    "synonyms": "",
+    "meaning": "把…强加给…",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 332,
+    "phrase": "in the form of",
+    "raw": "in the form of 以…形式",
+    "synonyms": "",
+    "meaning": "以…形式",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 333,
+    "phrase": "be fortunate in",
+    "raw": "be fortunate in 幸运,有好运气",
+    "synonyms": "",
+    "meaning": "幸运,有好运气",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 334,
+    "phrase": "free of charge",
+    "raw": "free of charge 免费",
+    "synonyms": "",
+    "meaning": "免费",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 335,
+    "phrase": "be freed from",
+    "raw": "be freed from 免受, 没有…",
+    "synonyms": "",
+    "meaning": "免受, 没有…",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 336,
+    "phrase": "in front of",
+    "raw": "in front of 在…前面 \nin the front of 在…前部",
+    "synonyms": "",
+    "meaning": "在…前面 \nin the front of 在…前部",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 337,
+    "phrase": "furnish…with",
+    "raw": "furnish…with (=supply) 向…提供",
+    "synonyms": "supply",
+    "meaning": "向…提供",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 338,
+    "phrase": "in general",
+    "raw": "in general (=in most cases, usually)通常",
+    "synonyms": "in most cases, usually",
+    "meaning": "通常",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 339,
+    "phrase": "catch (or get) a glimpse of",
+    "raw": "catch (or get) a glimpse of 瞥见(强调结果) take a glance(or look) at看一眼(强调动作)",
+    "synonyms": "",
+    "meaning": "瞥见(强调结果) take a glance(or look) at看一眼(强调动作)",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 340,
+    "phrase": "be good for",
+    "raw": "be good for 对…有好处;对…有作用 \nbe good at 擅长于; be good to 对…好",
+    "synonyms": "",
+    "meaning": "对…有好处;对…有作用 \nbe good at 擅长于; be good to 对…好",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 341,
+    "phrase": "in good time",
+    "raw": "in good time(=early)早早地(做完.到达等)",
+    "synonyms": "early",
+    "meaning": "早早地(做完.到达等)",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 342,
+    "phrase": "for good",
+    "raw": "for good (=for ever) 永远地, 长期地",
+    "synonyms": "for ever",
+    "meaning": "永远地, 长期地",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 343,
+    "phrase": "take…for granted",
+    "raw": "take…for granted (=assume to be true) \n把…认为理所当然的.",
+    "synonyms": "assume to be true",
+    "meaning": "把…认为理所当然的.",
+    "first_letter": "T",
+    "tag": "同義替換"
+  },
+  {
+    "id": 344,
+    "phrase": "be grateful to sb. for sth",
+    "raw": "be grateful to sb. for sth 因…感谢某人",
+    "synonyms": "",
+    "meaning": "因…感谢某人",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 345,
+    "phrase": "on the ground(s) fo",
+    "raw": "on the ground(s) fo (=because of) 由于…",
+    "synonyms": "because of",
+    "meaning": "由于…",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 346,
+    "phrase": "fall to the ground (",
+    "raw": "fall to the ground (计划.希望等)失败,落空",
+    "synonyms": "",
+    "meaning": "计划.希望等)失败,落空",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 347,
+    "phrase": "on one’s guard(against)",
+    "raw": "on one’s guard(against) 谨防, 警惕 \n(be) on guard 站岗",
+    "synonyms": "",
+    "meaning": "谨防, 警惕 \n(be) on guard 站岗",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 348,
+    "phrase": "guard against",
+    "raw": "guard against (=defend, keep safe)警惕,防止 guard…against 警卫…防止",
+    "synonyms": "defend, keep safe",
+    "meaning": "警惕,防止 guard…against 警卫…防止",
+    "first_letter": "G",
+    "tag": "同義替換"
+  },
+  {
+    "id": 349,
+    "phrase": "guess at",
+    "raw": "guess at 猜, 估计",
+    "synonyms": "",
+    "meaning": "猜, 估计",
+    "first_letter": "G",
+    "tag": "核心短語"
+  },
+  {
+    "id": 350,
+    "phrase": "by guess",
+    "raw": "by guess 靠猜",
+    "synonyms": "",
+    "meaning": "靠猜",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 351,
+    "phrase": "be guilty of",
+    "raw": "be guilty of 犯有…罪或过失",
+    "synonyms": "",
+    "meaning": "犯有…罪或过失",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 352,
+    "phrase": "be in the habit of",
+    "raw": "be in the habit of 习惯于",
+    "synonyms": "",
+    "meaning": "习惯于",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 353,
+    "phrase": "break off (a habit)",
+    "raw": "break off (a habit) 改掉(某种习惯)",
+    "synonyms": "",
+    "meaning": "改掉(某种习惯)",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 354,
+    "phrase": "break sb. of (a habit)",
+    "raw": "break sb. of (a habit)使某人改掉(某习惯)",
+    "synonyms": "",
+    "meaning": "使某人改掉(某习惯)",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 355,
+    "phrase": "get (fall) into the habit of",
+    "raw": "get (fall) into the habit of养成了…的习惯",
+    "synonyms": "",
+    "meaning": "养成了…的习惯",
+    "first_letter": "G",
+    "tag": "核心短語"
+  },
+  {
+    "id": 356,
+    "phrase": "come to a halt",
+    "raw": "come to a halt (=stop) 停止; 停住",
+    "synonyms": "stop",
+    "meaning": "停止; 停住",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 357,
+    "phrase": "at hand",
+    "raw": "at hand 在手边, 眼前(附近)",
+    "synonyms": "",
+    "meaning": "在手边, 眼前(附近)",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 358,
+    "phrase": "by hand",
+    "raw": "by hand 用手工(做)",
+    "synonyms": "",
+    "meaning": "用手工(做)",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 359,
+    "phrase": "hand in glove(with)",
+    "raw": "hand in glove(with) 狼狈为奸, 密切合作",
+    "synonyms": "",
+    "meaning": "狼狈为奸, 密切合作",
+    "first_letter": "H",
+    "tag": "核心短語"
+  },
+  {
+    "id": 360,
+    "phrase": "in hand 1)",
+    "raw": "in hand 1)在手边 2)(=under control)控制住",
+    "synonyms": "under control",
+    "meaning": "在手边 2)(=under control)控制住",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 361,
+    "phrase": "in the hands of",
+    "raw": "in the hands of 由…掌握, 控制, 负责",
+    "synonyms": "",
+    "meaning": "由…掌握, 控制, 负责",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 362,
+    "phrase": "live from hand to mouth",
+    "raw": "live from hand to mouth勉强度日,现挣现吃",
+    "synonyms": "",
+    "meaning": "勉强度日,现挣现吃",
+    "first_letter": "L",
+    "tag": "核心短語"
+  },
+  {
+    "id": 363,
+    "phrase": "at the head of",
+    "raw": "at the head of 在…的前头",
+    "synonyms": "",
+    "meaning": "在…的前头",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 364,
+    "phrase": "head for",
+    "raw": "head for (=move towards) 向…方向前进",
+    "synonyms": "move towards",
+    "meaning": "向…方向前进",
+    "first_letter": "H",
+    "tag": "同義替換"
+  },
+  {
+    "id": 365,
+    "phrase": "hear of",
+    "raw": "hear of (=know about) 听人说起, 听说过",
+    "synonyms": "know about",
+    "meaning": "听人说起, 听说过",
+    "first_letter": "H",
+    "tag": "同義替換"
+  },
+  {
+    "id": 366,
+    "phrase": "at heart",
+    "raw": "at heart (=in reality) 内心里, 实际上",
+    "synonyms": "in reality",
+    "meaning": "内心里, 实际上",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 367,
+    "phrase": "in one’s heart (of hearts)",
+    "raw": "in one’s heart (of hearts)内心深处,事实上",
+    "synonyms": "",
+    "meaning": "内心深处,事实上",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 368,
+    "phrase": "by heart",
+    "raw": "by heart (=by memory) 熟记, 背(诵)",
+    "synonyms": "by memory",
+    "meaning": "熟记, 背(诵)",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 369,
+    "phrase": "to one’s heart’s content",
+    "raw": "to one’s heart’s content 尽情地",
+    "synonyms": "",
+    "meaning": "尽情地",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 370,
+    "phrase": "with all one’s heart",
+    "raw": "with all one’s heart全心全意地,真心实意",
+    "synonyms": "",
+    "meaning": "全心全意地,真心实意",
+    "first_letter": "W",
+    "tag": "核心短語"
+  },
+  {
+    "id": 371,
+    "phrase": "hinder…form",
+    "raw": "hinder…form(=stop…from)阻碍,使..不能做",
+    "synonyms": "stop…from",
+    "meaning": "阻碍,使..不能做",
+    "first_letter": "H",
+    "tag": "同義替換"
+  },
+  {
+    "id": 372,
+    "phrase": "be (go) on holiday",
+    "raw": "be (go) on holiday 在(去)度假 \ngo on holiday = go for a holiday",
+    "synonyms": "",
+    "meaning": "在(去)度假 \ngo on holiday = go for a holiday",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 373,
+    "phrase": "be (feel) at home",
+    "raw": "be (feel) at home (=to be comfortable; not feel worried) 感觉合适，无拘束，熟悉",
+    "synonyms": "to be comfortable; not feel worried",
+    "meaning": "感觉合适，无拘束，熟悉",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 374,
+    "phrase": "be honest in",
+    "raw": "be honest in诚实",
+    "synonyms": "",
+    "meaning": "诚实",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 375,
+    "phrase": "in one’s honour (or in honour of)",
+    "raw": "in one’s honour (or in honour of)祝贺,纪念",
+    "synonyms": "",
+    "meaning": "祝贺,纪念",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 376,
+    "phrase": "on one’s honour",
+    "raw": "on one’s honour 以某人的名誉担保",
+    "synonyms": "",
+    "meaning": "以某人的名誉担保",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 377,
+    "phrase": "hope for",
+    "raw": "hope for 希望(某事发生),希望有",
+    "synonyms": "",
+    "meaning": "希望(某事发生),希望有",
+    "first_letter": "H",
+    "tag": "核心短語"
+  },
+  {
+    "id": 378,
+    "phrase": "to one’s horror",
+    "raw": "to one’s horror 令某人感到恐惧的是",
+    "synonyms": "",
+    "meaning": "令某人感到恐惧的是",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 379,
+    "phrase": "in a hurry",
+    "raw": "in a hurry (=hastily) 匆忙地",
+    "synonyms": "hastily",
+    "meaning": "匆忙地",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 380,
+    "phrase": "be identical with",
+    "raw": "be identical with(=exactly alike)和完全相同",
+    "synonyms": "exactly alike",
+    "meaning": "和完全相同",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 381,
+    "phrase": "be identified with",
+    "raw": "be identified with 被视为与…等同",
+    "synonyms": "",
+    "meaning": "被视为与…等同",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 382,
+    "phrase": "in ignorance of",
+    "raw": "in ignorance of 不知道…",
+    "synonyms": "",
+    "meaning": "不知道…",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 383,
+    "phrase": "be ignorant of ( = lacking knowledge)",
+    "raw": "be ignorant of ( = lacking knowledge) 对…不了解,不知道",
+    "synonyms": "",
+    "meaning": "对…不了解,不知道",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 384,
+    "phrase": "(an) impact (on)",
+    "raw": "(an) impact (on) 对…的强烈影响",
+    "synonyms": "",
+    "meaning": "对…的强烈影响",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 385,
+    "phrase": "impose…on",
+    "raw": "impose…on 把…强加给",
+    "synonyms": "",
+    "meaning": "把…强加给",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 386,
+    "phrase": "impress…on",
+    "raw": "impress…on 给…留下印象",
+    "synonyms": "",
+    "meaning": "给…留下印象",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 387,
+    "phrase": "make (leave) an impression on sb. =give sb. an impression",
+    "raw": "make (leave) an impression on sb. =give sb. an impression 给…留下印象",
+    "synonyms": "",
+    "meaning": "给…留下印象",
+    "first_letter": "M",
+    "tag": "核心短語"
+  },
+  {
+    "id": 388,
+    "phrase": "under the impression that",
+    "raw": "under the impression that有..的印象,认为",
+    "synonyms": "",
+    "meaning": "有..的印象,认为",
+    "first_letter": "U",
+    "tag": "核心短語"
+  },
+  {
+    "id": 389,
+    "phrase": "improve sth.(make sth. better)",
+    "raw": "improve sth.(make sth. better)把原物改进 \nimprove on(=produce or be sth. better than…) 另做一物比原物更好",
+    "synonyms": "produce or be sth. better than…",
+    "meaning": "把原物改进 \nimprove on(=produce or be sth. better than…) 另做一物比原物更好",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 390,
+    "phrase": "improve in",
+    "raw": "improve in (=get better) 有改进, 好些",
+    "synonyms": "get better",
+    "meaning": "有改进, 好些",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 391,
+    "phrase": "improvement in",
+    "raw": "improvement in 表示原物有改进,好转",
+    "synonyms": "",
+    "meaning": "表示原物有改进,好转",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 392,
+    "phrase": "include…in",
+    "raw": "include…in 把…列在…里面",
+    "synonyms": "",
+    "meaning": "把…列在…里面",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 393,
+    "phrase": "inclusive of",
+    "raw": "inclusive of 把…包括在内",
+    "synonyms": "",
+    "meaning": "把…包括在内",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 394,
+    "phrase": "independent of",
+    "raw": "independent of 独立的,不受约束的",
+    "synonyms": "",
+    "meaning": "独立的,不受约束的",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 395,
+    "phrase": "indicative of",
+    "raw": "indicative of 表明, 说明",
+    "synonyms": "",
+    "meaning": "表明, 说明",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 396,
+    "phrase": "be indifferent to",
+    "raw": "be indifferent to (=not interested in)对…漠不关心, 冷淡, 不在乎",
+    "synonyms": "not interested in",
+    "meaning": "对…漠不关心, 冷淡, 不在乎",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 397,
+    "phrase": "(be) inferior to",
+    "raw": "(be) inferior to(=less good in quality or value) 比…差; superior to比…好",
+    "synonyms": "less good in quality or value",
+    "meaning": "比…差; superior to比…好",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 398,
+    "phrase": "inform sb. of sth",
+    "raw": "inform sb. of sth. 通知, 告诉",
+    "synonyms": "",
+    "meaning": "通知, 告诉",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 399,
+    "phrase": "be innocent of",
+    "raw": "be innocent of 无罪的,无辜的",
+    "synonyms": "",
+    "meaning": "无罪的,无辜的",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 400,
+    "phrase": "insist on",
+    "raw": "insist on (=order sth. to happen) 坚持要",
+    "synonyms": "order sth. to happen",
+    "meaning": "坚持要",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 401,
+    "phrase": "instead of",
+    "raw": "instead of (=in place of) 代替，而不是…",
+    "synonyms": "in place of",
+    "meaning": "代替，而不是…",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 402,
+    "phrase": "instruct…in",
+    "raw": "instruct…in (=teach) 教.指导.训练某人…",
+    "synonyms": "teach",
+    "meaning": "教.指导.训练某人…",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 403,
+    "phrase": "insure…for",
+    "raw": "insure…for 把…保险(多少钱); ensure 使安全; assure…(of) 使…确信,保证",
+    "synonyms": "",
+    "meaning": "把…保险(多少钱); ensure 使安全; assure…(of) 使…确信,保证",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 404,
+    "phrase": "insure…against",
+    "raw": "insure…against 保险…以防",
+    "synonyms": "",
+    "meaning": "保险…以防",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 405,
+    "phrase": "intend…for",
+    "raw": "intend…for 打算把…给",
+    "synonyms": "",
+    "meaning": "打算把…给",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 406,
+    "phrase": "(be) intent on",
+    "raw": "(be) intent on 专心致志, 坚决",
+    "synonyms": "",
+    "meaning": "专心致志, 坚决",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 407,
+    "phrase": "in the interests of",
+    "raw": "in the interests of 符合…的利益 \nbe interested in 对…感兴趣",
+    "synonyms": "",
+    "meaning": "符合…的利益 \nbe interested in 对…感兴趣",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 408,
+    "phrase": "interfere in",
+    "raw": "interfere in干涉, interfere with打搅,干扰",
+    "synonyms": "",
+    "meaning": "干涉, interfere with打搅,干扰",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 409,
+    "phrase": "at intervals",
+    "raw": "at intervals 每隔一会儿, 每隔一段距离",
+    "synonyms": "",
+    "meaning": "每隔一会儿, 每隔一段距离",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 410,
+    "phrase": "intervene in",
+    "raw": "intervene in 干预",
+    "synonyms": "",
+    "meaning": "干预",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 411,
+    "phrase": "invest in",
+    "raw": "invest in 投资",
+    "synonyms": "",
+    "meaning": "投资",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 412,
+    "phrase": "be involved in",
+    "raw": "be involved in (=become connected or concerned) 卷入, 参加",
+    "synonyms": "become connected or concerned",
+    "meaning": "卷入, 参加",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 413,
+    "phrase": "by itself",
+    "raw": "by itself (=alone, without help)单独地,靠自己",
+    "synonyms": "alone, without help",
+    "meaning": "单独地,靠自己",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 414,
+    "phrase": "in itself",
+    "raw": "in itself 本身; of itself 自发,自然",
+    "synonyms": "",
+    "meaning": "本身; of itself 自发,自然",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 415,
+    "phrase": "be jealous of",
+    "raw": "be jealous of 妒忌",
+    "synonyms": "",
+    "meaning": "妒忌",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 416,
+    "phrase": "jump at",
+    "raw": "jump at (=to be eager to accept)抢着接受,",
+    "synonyms": "to be eager to accept",
+    "meaning": "抢着接受,",
+    "first_letter": "J",
+    "tag": "同義替換"
+  },
+  {
+    "id": 417,
+    "phrase": "jump on",
+    "raw": "jump on (=scold, tell of) 叱责",
+    "synonyms": "scold, tell of",
+    "meaning": "叱责",
+    "first_letter": "J",
+    "tag": "同義替換"
+  },
+  {
+    "id": 418,
+    "phrase": "junior to sb",
+    "raw": "junior to sb. 年纪较…轻, 职位较…低.",
+    "synonyms": "",
+    "meaning": "年纪较…轻, 职位较…低.",
+    "first_letter": "J",
+    "tag": "核心短語"
+  },
+  {
+    "id": 419,
+    "phrase": "(be) keen on",
+    "raw": "(be) keen on 喜爱, 渴望",
+    "synonyms": "",
+    "meaning": "喜爱, 渴望",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 420,
+    "phrase": "keep a close watch on ( =keep a sharp lookout for)",
+    "raw": "keep a close watch on ( =keep a sharp lookout for) 密切注视",
+    "synonyms": "",
+    "meaning": "密切注视",
+    "first_letter": "K",
+    "tag": "核心短語"
+  },
+  {
+    "id": 421,
+    "phrase": "keep…to oneself",
+    "raw": "keep…to oneself(=keep secret)不告诉别人",
+    "synonyms": "keep secret",
+    "meaning": "不告诉别人",
+    "first_letter": "K",
+    "tag": "同義替換"
+  },
+  {
+    "id": 422,
+    "phrase": "to(the best of) one’s knowledge",
+    "raw": "to(the best of) one’s knowledge 据…所知",
+    "synonyms": "",
+    "meaning": "据…所知",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 423,
+    "phrase": "at large",
+    "raw": "at large(=at liberty, free) 在逃, 逍遥法外 \nat large(=in general) 一般来说, 大体上 \nat large(=at full length; with details)详细地",
+    "synonyms": "at liberty, free",
+    "meaning": "在逃, 逍遥法外 \nat large(=in general) 一般来说, 大体上 \nat large(=at full length; with details)详细地",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 424,
+    "phrase": "lean against (",
+    "raw": "lean against (背)靠着…",
+    "synonyms": "",
+    "meaning": "背)靠着…",
+    "first_letter": "L",
+    "tag": "核心短語"
+  },
+  {
+    "id": 425,
+    "phrase": "at least",
+    "raw": "at least 至少; at most 至多",
+    "synonyms": "",
+    "meaning": "至少; at most 至多",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 426,
+    "phrase": "(not) in the least",
+    "raw": "(not) in the least 一点(也不), 丝毫(也不)",
+    "synonyms": "",
+    "meaning": "一点(也不), 丝毫(也不)",
+    "first_letter": "N",
+    "tag": "核心短語"
+  },
+  {
+    "id": 427,
+    "phrase": "at one’s leisure",
+    "raw": "at one’s leisure 在…有空的时候",
+    "synonyms": "",
+    "meaning": "在…有空的时候",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 428,
+    "phrase": "lend itself/themselves to",
+    "raw": "lend itself/themselves to适合于(某用途)",
+    "synonyms": "",
+    "meaning": "适合于(某用途)",
+    "first_letter": "L",
+    "tag": "核心短語"
+  },
+  {
+    "id": 429,
+    "phrase": "at length",
+    "raw": "at length (=after a long time, at last)终于 \nat length (=in detail, thoroughly)详细地",
+    "synonyms": "after a long time, at last",
+    "meaning": "终于 \nat length (=in detail, thoroughly)详细地",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 430,
+    "phrase": "go to any length",
+    "raw": "go to any length想一切办法, 尽一切力量",
+    "synonyms": "",
+    "meaning": "想一切办法, 尽一切力量",
+    "first_letter": "G",
+    "tag": "核心短語"
+  },
+  {
+    "id": 431,
+    "phrase": "be liable to",
+    "raw": "be liable to (=be subject to)易于..的,应受(罚)",
+    "synonyms": "be subject to",
+    "meaning": "易于..的,应受(罚)",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 432,
+    "phrase": "be liable for",
+    "raw": "be liable for 对…应负责任的",
+    "synonyms": "",
+    "meaning": "对…应负责任的",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 433,
+    "phrase": "lie in",
+    "raw": "lie in 在于",
+    "synonyms": "",
+    "meaning": "在于",
+    "first_letter": "L",
+    "tag": "核心短語"
+  },
+  {
+    "id": 434,
+    "phrase": "in life",
+    "raw": "in life 一生中",
+    "synonyms": "",
+    "meaning": "一生中",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 435,
+    "phrase": "for life",
+    "raw": "for life 终身",
+    "synonyms": "",
+    "meaning": "终身",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 436,
+    "phrase": "in the light of",
+    "raw": "in the light of (=considering; taking into account) 考虑到, 根据",
+    "synonyms": "considering; taking into account",
+    "meaning": "考虑到, 根据",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 437,
+    "phrase": "throw light on ( = make clear, explain)",
+    "raw": "throw light on ( = make clear, explain) 使…更为清楚, 提供线索, 阐明",
+    "synonyms": "",
+    "meaning": "使…更为清楚, 提供线索, 阐明",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 438,
+    "phrase": "in line with",
+    "raw": "in line with(=in agreement with)符合,一致",
+    "synonyms": "in agreement with",
+    "meaning": "符合,一致",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 439,
+    "phrase": "long for",
+    "raw": "long for(=want very much)渴望,希望得到",
+    "synonyms": "want very much",
+    "meaning": "渴望,希望得到",
+    "first_letter": "L",
+    "tag": "同義替換"
+  },
+  {
+    "id": 440,
+    "phrase": "for long",
+    "raw": "for long 很久,很长时间(否定句.疑问句中)",
+    "synonyms": "",
+    "meaning": "很久,很长时间(否定句.疑问句中)",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 441,
+    "phrase": "before long",
+    "raw": "before long (=soon)不久, 过了不久以后.",
+    "synonyms": "soon",
+    "meaning": "不久, 过了不久以后.",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 442,
+    "phrase": "in the long run",
+    "raw": "in the long run (=in the end)从长远来说,最后; in the short term (从短期来说)",
+    "synonyms": "in the end",
+    "meaning": "从长远来说,最后; in the short term (从短期来说)",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 443,
+    "phrase": "(be) at a loss",
+    "raw": "(be) at a loss 不知所措",
+    "synonyms": "",
+    "meaning": "不知所措",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 444,
+    "phrase": "major in",
+    "raw": "major in 主修（某课程）",
+    "synonyms": "",
+    "meaning": "主修（某课程）",
+    "first_letter": "M",
+    "tag": "核心短語"
+  },
+  {
+    "id": 445,
+    "phrase": "as a matter of fact",
+    "raw": "as a matter of fact 实际上, 事实是",
+    "synonyms": "",
+    "meaning": "实际上, 事实是",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 446,
+    "phrase": "by all means",
+    "raw": "by all means (=at all costs)不惜一切. \n(=certainly) 当然行;by means of用…; by no means 完全不, 决不",
+    "synonyms": "at all costs",
+    "meaning": "不惜一切. \n(=certainly) 当然行;by means of用…; by no means 完全不, 决不",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 447,
+    "phrase": "on memory of",
+    "raw": "on memory of 为纪念…",
+    "synonyms": "",
+    "meaning": "为纪念…",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 448,
+    "phrase": "on the mend",
+    "raw": "on the mend (=in the process of recovering) 好转, 在康复中",
+    "synonyms": "in the process of recovering",
+    "meaning": "好转, 在康复中",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 449,
+    "phrase": "mention sth. to sb",
+    "raw": "mention sth. to sb. 向某人提起某事",
+    "synonyms": "",
+    "meaning": "向某人提起某事",
+    "first_letter": "M",
+    "tag": "核心短語"
+  },
+  {
+    "id": 450,
+    "phrase": "at the mercy of",
+    "raw": "at the mercy of (=in the power of) 任…摆布, 在…支配下",
+    "synonyms": "in the power of",
+    "meaning": "任…摆布, 在…支配下",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 451,
+    "phrase": "be in a mess",
+    "raw": "be in a mess 乱七八糟, 处境困难 \nmake a mess of 弄乱, 打乱",
+    "synonyms": "",
+    "meaning": "乱七八糟, 处境困难 \nmake a mess of 弄乱, 打乱",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 452,
+    "phrase": "bear(or keep)…in mind",
+    "raw": "bear(or keep)…in mind(=remember)牢记",
+    "synonyms": "remember",
+    "meaning": "牢记",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 453,
+    "phrase": "bring(or call)to mind",
+    "raw": "bring(or call)to mind(=remember)使回想起",
+    "synonyms": "remember",
+    "meaning": "使回想起",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 454,
+    "phrase": "by mistake(",
+    "raw": "by mistake(由于粗心,健忘原因而)错误地",
+    "synonyms": "",
+    "meaning": "由于粗心,健忘原因而)错误地",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 455,
+    "phrase": "at the moment",
+    "raw": "at the moment (=now) 此刻,现在 \nfor the moment (=for the time being)暂时 \njust a moment 稍等片刻 \nat the last moment 在最后一刻",
+    "synonyms": "now",
+    "meaning": "此刻,现在 \nfor the moment (=for the time being)暂时 \njust a moment 稍等片刻 \nat the last moment 在最后一刻",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 456,
+    "phrase": "in the mood for",
+    "raw": "in the mood for 有情绪去做..,有心境做.",
+    "synonyms": "",
+    "meaning": "有情绪去做..,有心境做.",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 457,
+    "phrase": "no more…than",
+    "raw": "no more…than 和…一样都不…",
+    "synonyms": "",
+    "meaning": "和…一样都不…",
+    "first_letter": "N",
+    "tag": "核心短語"
+  },
+  {
+    "id": 458,
+    "phrase": "for the most part",
+    "raw": "for the most part 多半,大多数,一般来说",
+    "synonyms": "",
+    "meaning": "多半,大多数,一般来说",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 459,
+    "phrase": "at (the) most",
+    "raw": "at (the) most 最多, 至多",
+    "synonyms": "",
+    "meaning": "最多, 至多",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 460,
+    "phrase": "make the most of",
+    "raw": "make the most of 充分利用",
+    "synonyms": "",
+    "meaning": "充分利用",
+    "first_letter": "M",
+    "tag": "核心短語"
+  },
+  {
+    "id": 461,
+    "phrase": "be not much of",
+    "raw": "be not much of(=not a good)不是很好的… \nbe something of 有点…,像…",
+    "synonyms": "not a good",
+    "meaning": "不是很好的… \nbe something of 有点…,像…",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 462,
+    "phrase": "name after",
+    "raw": "name after 用…的名字命名",
+    "synonyms": "",
+    "meaning": "用…的名字命名",
+    "first_letter": "N",
+    "tag": "核心短語"
+  },
+  {
+    "id": 463,
+    "phrase": "native to",
+    "raw": "native to 所产的",
+    "synonyms": "",
+    "meaning": "所产的",
+    "first_letter": "N",
+    "tag": "核心短語"
+  },
+  {
+    "id": 464,
+    "phrase": "by nature",
+    "raw": "by nature 天生的, 生来",
+    "synonyms": "",
+    "meaning": "天生的, 生来",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 465,
+    "phrase": "in mature",
+    "raw": "in mature 本质上",
+    "synonyms": "",
+    "meaning": "本质上",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 466,
+    "phrase": "(be) in the nature of",
+    "raw": "(be) in the nature of 属…性质",
+    "synonyms": "",
+    "meaning": "属…性质",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 467,
+    "phrase": "none other that",
+    "raw": "none other that 不是别人,正是…",
+    "synonyms": "",
+    "meaning": "不是别人,正是…",
+    "first_letter": "N",
+    "tag": "核心短語"
+  },
+  {
+    "id": 468,
+    "phrase": "above normal",
+    "raw": "above normal 高于正常(温度)",
+    "synonyms": "",
+    "meaning": "高于正常(温度)",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 469,
+    "phrase": "for nothing",
+    "raw": "for nothing (=free, without payment)免费",
+    "synonyms": "free, without payment",
+    "meaning": "免费",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 470,
+    "phrase": "nothing but",
+    "raw": "nothing but 只有, 不过…而已",
+    "synonyms": "",
+    "meaning": "只有, 不过…而已",
+    "first_letter": "N",
+    "tag": "核心短語"
+  },
+  {
+    "id": 471,
+    "phrase": "to say nothing of",
+    "raw": "to say nothing of(=not to mention)更不用说…",
+    "synonyms": "not to mention",
+    "meaning": "更不用说…",
+    "first_letter": "T",
+    "tag": "同義替換"
+  },
+  {
+    "id": 472,
+    "phrase": "do sth. at short notice",
+    "raw": "do sth. at short notice 只给很少时间准备",
+    "synonyms": "",
+    "meaning": "只给很少时间准备",
+    "first_letter": "D",
+    "tag": "核心短語"
+  },
+  {
+    "id": 473,
+    "phrase": "until further notice",
+    "raw": "until further notice 在另行通知前",
+    "synonyms": "",
+    "meaning": "在另行通知前",
+    "first_letter": "U",
+    "tag": "核心短語"
+  },
+  {
+    "id": 474,
+    "phrase": "take notice of",
+    "raw": "take notice of (=pay attention) 注意",
+    "synonyms": "pay attention",
+    "meaning": "注意",
+    "first_letter": "T",
+    "tag": "同義替換"
+  },
+  {
+    "id": 475,
+    "phrase": "object to",
+    "raw": "object to (=be opposed to) 反对",
+    "synonyms": "be opposed to",
+    "meaning": "反对",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 476,
+    "phrase": "objection to (",
+    "raw": "objection to (接动名词) 反对",
+    "synonyms": "",
+    "meaning": "接动名词) 反对",
+    "first_letter": "O",
+    "tag": "名詞慣用"
+  },
+  {
+    "id": 477,
+    "phrase": "on occasion",
+    "raw": "on occasion(=now and then)不时地,必要时",
+    "synonyms": "now and then",
+    "meaning": "不时地,必要时",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 478,
+    "phrase": "by occasion of",
+    "raw": "by occasion of (=because of) 由于",
+    "synonyms": "because of",
+    "meaning": "由于",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 479,
+    "phrase": "occupy oneself with (in)",
+    "raw": "occupy oneself with (in) 忙于(某事)",
+    "synonyms": "",
+    "meaning": "忙于(某事)",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 480,
+    "phrase": "it occurs to sb. that…",
+    "raw": "it occurs to sb. that… 某人想到…",
+    "synonyms": "",
+    "meaning": "某人想到…",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 481,
+    "phrase": "once and for all =once and forever",
+    "raw": "once and for all =once and forever永远地 \nall at once (=suddenly, now) 立即,马上 \nonce in a while (=occasionally) 偶尔 \n(just) for once 就这一次",
+    "synonyms": "suddenly, now",
+    "meaning": "永远地 \nall at once (=suddenly, now) 立即,马上 \nonce in a while (=occasionally) 偶尔 \n(just) for once 就这一次",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 482,
+    "phrase": "(all) by oneself",
+    "raw": "(all) by oneself 独自(没有别人帮助)",
+    "synonyms": "",
+    "meaning": "独自(没有别人帮助)",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 483,
+    "phrase": "operate on sb",
+    "raw": "operate on sb. 给某人做手术 \noperation n. come/ go into operation开始运转 \nput/bring sth. into operation 使…投产,运转",
+    "synonyms": "",
+    "meaning": "给某人做手术 \noperation n. come/ go into operation开始运转 \nput/bring sth. into operation 使…投产,运转",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 484,
+    "phrase": "be of the opinion",
+    "raw": "be of the opinion 持有…的看法",
+    "synonyms": "",
+    "meaning": "持有…的看法",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 485,
+    "phrase": "in one’s opinion",
+    "raw": "in one’s opinion 按某人的看法",
+    "synonyms": "",
+    "meaning": "按某人的看法",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 486,
+    "phrase": "be opposed to…",
+    "raw": "be opposed to… 反对…",
+    "synonyms": "",
+    "meaning": "反对…",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 487,
+    "phrase": "be opposite to",
+    "raw": "be opposite to 与…相反的",
+    "synonyms": "",
+    "meaning": "与…相反的",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 488,
+    "phrase": "(be) in order",
+    "raw": "(be) in order(=acceptable)合适的,恰当的 \nin order 井井有条,处于良好状态; out of order(=in bad condition)出毛病,发生故障",
+    "synonyms": "acceptable",
+    "meaning": "合适的,恰当的 \nin order 井井有条,处于良好状态; out of order(=in bad condition)出毛病,发生故障",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 489,
+    "phrase": "made to order",
+    "raw": "made to order 定做的(衣服)",
+    "synonyms": "",
+    "meaning": "定做的(衣服)",
+    "first_letter": "M",
+    "tag": "核心短語"
+  },
+  {
+    "id": 490,
+    "phrase": "originate in/from",
+    "raw": "originate in/from(=begin)起源于,由..引起",
+    "synonyms": "begin",
+    "meaning": "起源于,由..引起",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 491,
+    "phrase": "on the outskirts (of)",
+    "raw": "on the outskirts (of) 在城郊",
+    "synonyms": "",
+    "meaning": "在城郊",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 492,
+    "phrase": "owe…to",
+    "raw": "owe…to 把…归于…",
+    "synonyms": "",
+    "meaning": "把…归于…",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 493,
+    "phrase": "on one’s own",
+    "raw": "on one’s own (=along, without help)单独",
+    "synonyms": "along, without help",
+    "meaning": "单独",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 494,
+    "phrase": "of one’s own",
+    "raw": "of one’s own某人自己的",
+    "synonyms": "",
+    "meaning": "某人自己的",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 495,
+    "phrase": "keep pace with",
+    "raw": "keep pace with 跟…齐步前进",
+    "synonyms": "",
+    "meaning": "跟…齐步前进",
+    "first_letter": "K",
+    "tag": "核心短語"
+  },
+  {
+    "id": 496,
+    "phrase": "go to great pains=take pains",
+    "raw": "go to great pains=take pains 下功夫,努力",
+    "synonyms": "",
+    "meaning": "下功夫,努力",
+    "first_letter": "G",
+    "tag": "核心短語"
+  },
+  {
+    "id": 497,
+    "phrase": "part with",
+    "raw": "part with (=give up, sell) 舍弃,卖掉",
+    "synonyms": "give up, sell",
+    "meaning": "舍弃,卖掉",
+    "first_letter": "P",
+    "tag": "同義替換"
+  },
+  {
+    "id": 498,
+    "phrase": "participate in",
+    "raw": "participate in (=take part in)参加",
+    "synonyms": "take part in",
+    "meaning": "参加",
+    "first_letter": "P",
+    "tag": "同義替換"
+  },
+  {
+    "id": 499,
+    "phrase": "(be) particular about",
+    "raw": "(be) particular about 讲究,挑剔(吃,穿)",
+    "synonyms": "",
+    "meaning": "讲究,挑剔(吃,穿)",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 500,
+    "phrase": "in particular",
+    "raw": "in particular (=especially) 特别是,尤其",
+    "synonyms": "especially",
+    "meaning": "特别是,尤其",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 501,
+    "phrase": "(a) passion for",
+    "raw": "(a) passion for 对…的热爱,热情",
+    "synonyms": "",
+    "meaning": "对…的热爱,热情",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 502,
+    "phrase": "be patient with",
+    "raw": "be patient with 对…耐心",
+    "synonyms": "",
+    "meaning": "对…耐心",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 503,
+    "phrase": "pay for",
+    "raw": "pay for 赔偿, 付款, 报偿, 处罚",
+    "synonyms": "",
+    "meaning": "赔偿, 付款, 报偿, 处罚",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 504,
+    "phrase": "pay…for",
+    "raw": "pay…for 付…的钱",
+    "synonyms": "",
+    "meaning": "付…的钱",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 505,
+    "phrase": "(be) at peace with",
+    "raw": "(be) at peace with 与…和睦相处 \nin peace (=peacefully)安静,平安",
+    "synonyms": "peacefully",
+    "meaning": "与…和睦相处 \nin peace (=peacefully)安静,平安",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 506,
+    "phrase": "peculiar to…",
+    "raw": "peculiar to… 特有的, 独具的",
+    "synonyms": "",
+    "meaning": "特有的, 独具的",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 507,
+    "phrase": "penalty for",
+    "raw": "penalty for 对…的处罚,罚金",
+    "synonyms": "",
+    "meaning": "对…的处罚,罚金",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 508,
+    "phrase": "perform on the piano",
+    "raw": "perform on the piano(=play the piano) \n演奏钢琴",
+    "synonyms": "play the piano",
+    "meaning": "演奏钢琴",
+    "first_letter": "P",
+    "tag": "同義替換"
+  },
+  {
+    "id": 509,
+    "phrase": "persist in",
+    "raw": "persist in 坚持,固执",
+    "synonyms": "",
+    "meaning": "坚持,固执",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 510,
+    "phrase": "in person",
+    "raw": "in person 亲自, 当面",
+    "synonyms": "",
+    "meaning": "亲自, 当面",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 511,
+    "phrase": "in place (in right or proper place)",
+    "raw": "in place (in right or proper place) 放在应放的地方",
+    "synonyms": "",
+    "meaning": "放在应放的地方",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 512,
+    "phrase": "in place of",
+    "raw": "in place of (=instead of) 代替",
+    "synonyms": "instead of",
+    "meaning": "代替",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 513,
+    "phrase": "take(a) pleasure in",
+    "raw": "take(a) pleasure in 喜欢做某事",
+    "synonyms": "",
+    "meaning": "喜欢做某事",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 514,
+    "phrase": "be on the point of doing sth",
+    "raw": "be on the point of doing sth. (=be about to do sth.) 刚要去做",
+    "synonyms": "be about to do sth.",
+    "meaning": "刚要去做",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 515,
+    "phrase": "beside the point",
+    "raw": "beside the point 不切正题,无关紧要",
+    "synonyms": "",
+    "meaning": "不切正题,无关紧要",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 516,
+    "phrase": "come to the point",
+    "raw": "come to the point 谈主要问题",
+    "synonyms": "",
+    "meaning": "谈主要问题",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 517,
+    "phrase": "there is no point in doing sth",
+    "raw": "there is no point in doing sth.没必要做某事",
+    "synonyms": "",
+    "meaning": "没必要做某事",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 518,
+    "phrase": "to the point",
+    "raw": "to the point 中肯, 切题",
+    "synonyms": "",
+    "meaning": "中肯, 切题",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 519,
+    "phrase": "point at",
+    "raw": "point at (=indicate, direct attention)指着 \npoint out (=indicate, show) 指出,指明",
+    "synonyms": "indicate, direct attention",
+    "meaning": "指着 \npoint out (=indicate, show) 指出,指明",
+    "first_letter": "P",
+    "tag": "同義替換"
+  },
+  {
+    "id": 520,
+    "phrase": "popular with/among",
+    "raw": "popular with/among大众所喜爱的,拥戴",
+    "synonyms": "",
+    "meaning": "大众所喜爱的,拥戴",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 521,
+    "phrase": "in the position of",
+    "raw": "in the position of 处在…位置上",
+    "synonyms": "",
+    "meaning": "处在…位置上",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 522,
+    "phrase": "in practice",
+    "raw": "in practice 实际上(状语);业务熟练(表语)",
+    "synonyms": "",
+    "meaning": "实际上(状语);业务熟练(表语)",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 523,
+    "phrase": "be(get) out of practice",
+    "raw": "be(get) out of practice 荒疏,不熟练",
+    "synonyms": "",
+    "meaning": "荒疏,不熟练",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 524,
+    "phrase": "bring(put)…into practice",
+    "raw": "bring(put)…into practice使…成为现实",
+    "synonyms": "",
+    "meaning": "使…成为现实",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 525,
+    "phrase": "prefer…to… (choose rather, like better)",
+    "raw": "prefer…to… (choose rather, like better) 宁要, 更喜欢",
+    "synonyms": "",
+    "meaning": "宁要, 更喜欢",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 526,
+    "phrase": "prepare for breakfast",
+    "raw": "prepare for breakfast 准备吃早饭 \nprepare breakfast 作早饭",
+    "synonyms": "",
+    "meaning": "准备吃早饭 \nprepare breakfast 作早饭",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 527,
+    "phrase": "in the presence of",
+    "raw": "in the presence of 在…在场的情况下",
+    "synonyms": "",
+    "meaning": "在…在场的情况下",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 528,
+    "phrase": "for the present",
+    "raw": "for the present(=for the time being, for now)暂且,就现在来说; at present现在,此刻",
+    "synonyms": "for the time being, for now",
+    "meaning": "暂且,就现在来说; at present现在,此刻",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 529,
+    "phrase": "preside over / at",
+    "raw": "preside over / at 主持(会议,业务等)",
+    "synonyms": "",
+    "meaning": "主持(会议,业务等)",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 530,
+    "phrase": "prevail over",
+    "raw": "prevail over 占优势, 压倒, 战胜",
+    "synonyms": "",
+    "meaning": "占优势, 压倒, 战胜",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 531,
+    "phrase": "prevent…from",
+    "raw": "prevent…from 使…不, 防止…做",
+    "synonyms": "",
+    "meaning": "使…不, 防止…做",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 532,
+    "phrase": "previous to",
+    "raw": "previous to (=prior to) 在…之前",
+    "synonyms": "prior to",
+    "meaning": "在…之前",
+    "first_letter": "P",
+    "tag": "同義替換"
+  },
+  {
+    "id": 533,
+    "phrase": "take pride in",
+    "raw": "take pride in(=pride oneself on) 以…自豪",
+    "synonyms": "pride oneself on",
+    "meaning": "以…自豪",
+    "first_letter": "T",
+    "tag": "同義替換"
+  },
+  {
+    "id": 534,
+    "phrase": "pride oneself on / upon",
+    "raw": "pride oneself on / upon 以…自豪",
+    "synonyms": "",
+    "meaning": "以…自豪",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 535,
+    "phrase": "in principle",
+    "raw": "in principle (=only in regard to the main idea) 原则上",
+    "synonyms": "only in regard to the main idea",
+    "meaning": "原则上",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 536,
+    "phrase": "prior to",
+    "raw": "prior to (=before) 在…之前",
+    "synonyms": "before",
+    "meaning": "在…之前",
+    "first_letter": "P",
+    "tag": "同義替換"
+  },
+  {
+    "id": 537,
+    "phrase": "in private",
+    "raw": "in private (=privately) 私下, 秘密地 \nin public 公开地",
+    "synonyms": "privately",
+    "meaning": "私下, 秘密地 \nin public 公开地",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 538,
+    "phrase": "proceed from",
+    "raw": "proceed from (=arise from, result from) 由…发出, 由…引起(产生)",
+    "synonyms": "arise from, result from",
+    "meaning": "由…发出, 由…引起(产生)",
+    "first_letter": "P",
+    "tag": "同義替換"
+  },
+  {
+    "id": 539,
+    "phrase": "proceed with ( =begin and continue sth.)",
+    "raw": "proceed with ( =begin and continue sth.) 继续进行",
+    "synonyms": "",
+    "meaning": "继续进行",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 540,
+    "phrase": "in progress",
+    "raw": "in progress(=in the state of be done)进行中",
+    "synonyms": "in the state of be done",
+    "meaning": "进行中",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 541,
+    "phrase": "prohibit…from",
+    "raw": "prohibit…from (=forbid) 禁止, 阻止",
+    "synonyms": "forbid",
+    "meaning": "禁止, 阻止",
+    "first_letter": "P",
+    "tag": "同義替換"
+  },
+  {
+    "id": 542,
+    "phrase": "in proportion to",
+    "raw": "in proportion to 与…成比例",
+    "synonyms": "",
+    "meaning": "与…成比例",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 543,
+    "phrase": "protect…from",
+    "raw": "protect…from 阻止..不受,保护不受",
+    "synonyms": "",
+    "meaning": "阻止..不受,保护不受",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 544,
+    "phrase": "be proud of",
+    "raw": "be proud of 为…自豪",
+    "synonyms": "",
+    "meaning": "为…自豪",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 545,
+    "phrase": "provide for",
+    "raw": "provide for 为…做准备",
+    "synonyms": "",
+    "meaning": "为…做准备",
+    "first_letter": "P",
+    "tag": "核心短語"
+  },
+  {
+    "id": 546,
+    "phrase": "in public",
+    "raw": "in public 公开地, 当众",
+    "synonyms": "",
+    "meaning": "公开地, 当众",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 547,
+    "phrase": "on purpose",
+    "raw": "on purpose(=by intention, deliberately)故意",
+    "synonyms": "by intention, deliberately",
+    "meaning": "故意",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 548,
+    "phrase": "to the purpose",
+    "raw": "to the purpose (=useful for one’s purpose)得要领的, 中肯的",
+    "synonyms": "useful for one’s purpose",
+    "meaning": "得要领的, 中肯的",
+    "first_letter": "T",
+    "tag": "同義替換"
+  },
+  {
+    "id": 549,
+    "phrase": "be qualified in",
+    "raw": "be qualified in 在某种科目或学科上合格 \nbe qualified for 在某种职业上合格",
+    "synonyms": "",
+    "meaning": "在某种科目或学科上合格 \nbe qualified for 在某种职业上合格",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 550,
+    "phrase": "call…in question",
+    "raw": "call…in question 对…表示怀疑",
+    "synonyms": "",
+    "meaning": "对…表示怀疑",
+    "first_letter": "C",
+    "tag": "核心短語"
+  },
+  {
+    "id": 551,
+    "phrase": "beyond (all) question",
+    "raw": "beyond (all) question (=without question) 毫无疑问",
+    "synonyms": "without question",
+    "meaning": "毫无疑问",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 552,
+    "phrase": "out of the question",
+    "raw": "out of the question (=impossible)不可能的",
+    "synonyms": "impossible",
+    "meaning": "不可能的",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 553,
+    "phrase": "in question",
+    "raw": "in question (=under discussion)所谈及的;",
+    "synonyms": "under discussion",
+    "meaning": "所谈及的;",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 554,
+    "phrase": "without question",
+    "raw": "without question 毫无疑问",
+    "synonyms": "",
+    "meaning": "毫无疑问",
+    "first_letter": "W",
+    "tag": "核心短語"
+  },
+  {
+    "id": 555,
+    "phrase": "be caught in the rain",
+    "raw": "be caught in the rain 被雨淋了",
+    "synonyms": "",
+    "meaning": "被雨淋了",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 556,
+    "phrase": "at random",
+    "raw": "at random (=without aim or purpose) 随便地, 任意地, 胡乱地",
+    "synonyms": "without aim or purpose",
+    "meaning": "随便地, 任意地, 胡乱地",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 557,
+    "phrase": "range over",
+    "raw": "range over (=cove, include) 范围包括",
+    "synonyms": "cove, include",
+    "meaning": "范围包括",
+    "first_letter": "R",
+    "tag": "同義替換"
+  },
+  {
+    "id": 558,
+    "phrase": "range between",
+    "raw": "range between 范围在..与..之间不等",
+    "synonyms": "",
+    "meaning": "范围在..与..之间不等",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 559,
+    "phrase": "at any rate",
+    "raw": "at any rate (=at all events)无论如何,总之",
+    "synonyms": "at all events",
+    "meaning": "无论如何,总之",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 560,
+    "phrase": "beyond the reach of",
+    "raw": "beyond the reach of 无法达到(得到,理解)",
+    "synonyms": "",
+    "meaning": "无法达到(得到,理解)",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 561,
+    "phrase": "out of reach of",
+    "raw": "out of reach of 无法够到. within reach of (or within one’s reach) 够得到,能拿到",
+    "synonyms": "",
+    "meaning": "无法够到. within reach of (or within one’s reach) 够得到,能拿到",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 562,
+    "phrase": "react to",
+    "raw": "react to 对…作出反应",
+    "synonyms": "",
+    "meaning": "对…作出反应",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 563,
+    "phrase": "react on / upon",
+    "raw": "react on / upon 对…产生影响",
+    "synonyms": "",
+    "meaning": "对…产生影响",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 564,
+    "phrase": "react against",
+    "raw": "react against 作出反抗或反对反应",
+    "synonyms": "",
+    "meaning": "作出反抗或反对反应",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 565,
+    "phrase": "(be) ready for",
+    "raw": "(be) ready for 准备好做…",
+    "synonyms": "",
+    "meaning": "准备好做…",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 566,
+    "phrase": "in reality",
+    "raw": "in reality (=in fact, really) 事实上",
+    "synonyms": "in fact, really",
+    "meaning": "事实上",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 567,
+    "phrase": "beyond all reason",
+    "raw": "beyond all reason 没有道理的",
+    "synonyms": "",
+    "meaning": "没有道理的",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 568,
+    "phrase": "by reason of",
+    "raw": "by reason of (=because of) 由于,因为",
+    "synonyms": "because of",
+    "meaning": "由于,因为",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 569,
+    "phrase": "it stands to reason that …",
+    "raw": "it stands to reason that …理所当然",
+    "synonyms": "",
+    "meaning": "理所当然",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 570,
+    "phrase": "reason with",
+    "raw": "reason with (=argue) 劝说",
+    "synonyms": "argue",
+    "meaning": "劝说",
+    "first_letter": "R",
+    "tag": "同義替換"
+  },
+  {
+    "id": 571,
+    "phrase": "in the red",
+    "raw": "in the red 亏损,负债,赤字 \n(be) get out of red 不再亏损",
+    "synonyms": "",
+    "meaning": "亏损,负债,赤字 \n(be) get out of red 不再亏损",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 572,
+    "phrase": "refer to…as",
+    "raw": "refer to…as 把…称做…",
+    "synonyms": "",
+    "meaning": "把…称做…",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 573,
+    "phrase": "refer…to…",
+    "raw": "refer…to… (=send, take) 送交,呈交",
+    "synonyms": "send, take",
+    "meaning": "送交,呈交",
+    "first_letter": "R",
+    "tag": "同義替換"
+  },
+  {
+    "id": 574,
+    "phrase": "with/in reference to",
+    "raw": "with/in reference to(=concerning, about)关于",
+    "synonyms": "concerning, about",
+    "meaning": "关于",
+    "first_letter": "W",
+    "tag": "同義替換"
+  },
+  {
+    "id": 575,
+    "phrase": "with/in regard to",
+    "raw": "with/in regard to (=concerning)有关,关于",
+    "synonyms": "concerning",
+    "meaning": "有关,关于",
+    "first_letter": "W",
+    "tag": "同義替換"
+  },
+  {
+    "id": 576,
+    "phrase": "give one’s regards to sb",
+    "raw": "give one’s regards to sb. 向…问候",
+    "synonyms": "",
+    "meaning": "向…问候",
+    "first_letter": "G",
+    "tag": "核心短語"
+  },
+  {
+    "id": 577,
+    "phrase": "regardless of",
+    "raw": "regardless of (=without worrying about, despite, in spite of) 不顾,不考虑",
+    "synonyms": "without worrying about, despite, in spite of",
+    "meaning": "不顾,不考虑",
+    "first_letter": "R",
+    "tag": "同義替換"
+  },
+  {
+    "id": 578,
+    "phrase": "in/with relation to",
+    "raw": "in/with relation to 关于, 有关",
+    "synonyms": "",
+    "meaning": "关于, 有关",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 579,
+    "phrase": "relevant to",
+    "raw": "relevant to 与…有关的",
+    "synonyms": "",
+    "meaning": "与…有关的",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 580,
+    "phrase": "to one’s relief",
+    "raw": "to one’s relief 令…感到放心的是",
+    "synonyms": "",
+    "meaning": "令…感到放心的是",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 581,
+    "phrase": "relieve…of…",
+    "raw": "relieve…of… 解除,解脱;帮助拿,辞退",
+    "synonyms": "",
+    "meaning": "解除,解脱;帮助拿,辞退",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 582,
+    "phrase": "rely on",
+    "raw": "rely on 依靠, 信赖",
+    "synonyms": "",
+    "meaning": "依靠, 信赖",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 583,
+    "phrase": "remark on(upon)",
+    "raw": "remark on(upon) 对…发表评论",
+    "synonyms": "",
+    "meaning": "对…发表评论",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 584,
+    "phrase": "remedy for",
+    "raw": "remedy for 对…治疗法, 补救, 药物",
+    "synonyms": "",
+    "meaning": "对…治疗法, 补救, 药物",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 585,
+    "phrase": "remind sb. of",
+    "raw": "remind sb. of 提醒某人…,使某人向想起",
+    "synonyms": "",
+    "meaning": "提醒某人…,使某人向想起",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 586,
+    "phrase": "in good repair",
+    "raw": "in good repair(=in good condition)处于良好状态; be under repair 在修理中",
+    "synonyms": "in good condition",
+    "meaning": "处于良好状态; be under repair 在修理中",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 587,
+    "phrase": "reply to",
+    "raw": "reply to 答复, 回答",
+    "synonyms": "",
+    "meaning": "答复, 回答",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 588,
+    "phrase": "beyond reproach",
+    "raw": "beyond reproach不受责备的;beyond(all) reason毫无道理;beyond question毫无疑问;beyond belief以相信;beyond hope绝望",
+    "synonyms": "",
+    "meaning": "不受责备的;beyond(all) reason毫无道理;beyond question毫无疑问;beyond belief以相信;beyond hope绝望",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 589,
+    "phrase": "resort to",
+    "raw": "resort to 诉诸于.., 求助于… \nresort to force 诉诸于武力",
+    "synonyms": "",
+    "meaning": "诉诸于.., 求助于… \nresort to force 诉诸于武力",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 590,
+    "phrase": "in/with respect to",
+    "raw": "in/with respect to (=concerning)有关,关于",
+    "synonyms": "concerning",
+    "meaning": "有关,关于",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 591,
+    "phrase": "respond to",
+    "raw": "respond to 对…反应, 响应, 对(药)有效",
+    "synonyms": "",
+    "meaning": "对…反应, 响应, 对(药)有效",
+    "first_letter": "R",
+    "tag": "核心短語"
+  },
+  {
+    "id": 592,
+    "phrase": "in response to",
+    "raw": "in response to(=as an answer to)回答,反应",
+    "synonyms": "as an answer to",
+    "meaning": "回答,反应",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 593,
+    "phrase": "be response for",
+    "raw": "be response for 对…负责, 是造成…原因",
+    "synonyms": "",
+    "meaning": "对…负责, 是造成…原因",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 594,
+    "phrase": "rest on/upon",
+    "raw": "rest on/upon(=be supported by)依靠,寄托",
+    "synonyms": "be supported by",
+    "meaning": "依靠,寄托",
+    "first_letter": "R",
+    "tag": "同義替換"
+  },
+  {
+    "id": 595,
+    "phrase": "rest with",
+    "raw": "rest with (=be in hand of) 在…手中, 是…的责任; 由…决定; 依靠",
+    "synonyms": "be in hand of",
+    "meaning": "在…手中, 是…的责任; 由…决定; 依靠",
+    "first_letter": "R",
+    "tag": "同義替換"
+  },
+  {
+    "id": 596,
+    "phrase": "restrain…from",
+    "raw": "restrain…from(=hold back from)抑制..不..",
+    "synonyms": "hold back from",
+    "meaning": "抑制..不..",
+    "first_letter": "R",
+    "tag": "同義替換"
+  },
+  {
+    "id": 597,
+    "phrase": "restrict…to",
+    "raw": "restrict…to(=keep within limits)把..限制于..",
+    "synonyms": "keep within limits",
+    "meaning": "把..限制于..",
+    "first_letter": "R",
+    "tag": "同義替換"
+  },
+  {
+    "id": 598,
+    "phrase": "result in",
+    "raw": "result in (=cause) 导致",
+    "synonyms": "cause",
+    "meaning": "导致",
+    "first_letter": "R",
+    "tag": "同義替換"
+  },
+  {
+    "id": 599,
+    "phrase": "with the result that",
+    "raw": "with the result that 其结果是",
+    "synonyms": "",
+    "meaning": "其结果是",
+    "first_letter": "W",
+    "tag": "核心短語"
+  },
+  {
+    "id": 600,
+    "phrase": "in return (for)",
+    "raw": "in return (for) 作为报答; 以报答(for)",
+    "synonyms": "",
+    "meaning": "作为报答; 以报答(for)",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 601,
+    "phrase": "get rid of",
+    "raw": "get rid of 摆脱, 去掉, 除去",
+    "synonyms": "",
+    "meaning": "摆脱, 去掉, 除去",
+    "first_letter": "G",
+    "tag": "核心短語"
+  },
+  {
+    "id": 602,
+    "phrase": "be in the right",
+    "raw": "be in the right正确的;in the wrong错误的",
+    "synonyms": "",
+    "meaning": "正确的;in the wrong错误的",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 603,
+    "phrase": "be within one’s rights(to do)",
+    "raw": "be within one’s rights(to do) 有权(做)",
+    "synonyms": "",
+    "meaning": "有权(做)",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 604,
+    "phrase": "give rise to",
+    "raw": "give rise to (=lead to) 引起, 导致",
+    "synonyms": "lead to",
+    "meaning": "引起, 导致",
+    "first_letter": "G",
+    "tag": "同義替換"
+  },
+  {
+    "id": 605,
+    "phrase": "at the risk of",
+    "raw": "at the risk of(=with danger of)冒...的风险",
+    "synonyms": "with danger of",
+    "meaning": "冒...的风险",
+    "first_letter": "A",
+    "tag": "同義替換"
+  },
+  {
+    "id": 606,
+    "phrase": "run(take)risk of",
+    "raw": "run(take)risk of (=do sth dangerous)的风险",
+    "synonyms": "do sth dangerous",
+    "meaning": "的风险",
+    "first_letter": "R",
+    "tag": "同義替換"
+  },
+  {
+    "id": 607,
+    "phrase": "rule out",
+    "raw": "rule out (=exclude, eliminate) 排除",
+    "synonyms": "exclude, eliminate",
+    "meaning": "排除",
+    "first_letter": "R",
+    "tag": "同義替換"
+  },
+  {
+    "id": 608,
+    "phrase": "in safety",
+    "raw": "in safety 安全地",
+    "synonyms": "",
+    "meaning": "安全地",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 609,
+    "phrase": "for the sake of ( =for the good or advantage of )",
+    "raw": "for the sake of ( =for the good or advantage of ) 为了…起见",
+    "synonyms": "",
+    "meaning": "为了…起见",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 610,
+    "phrase": "be for sale",
+    "raw": "be for sale 待售",
+    "synonyms": "",
+    "meaning": "待售",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 611,
+    "phrase": "on sale",
+    "raw": "on sale (=offered to be sold) 出售, 上市",
+    "synonyms": "offered to be sold",
+    "meaning": "出售, 上市",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 612,
+    "phrase": "be satisfied with",
+    "raw": "be satisfied with 满意",
+    "synonyms": "",
+    "meaning": "满意",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 613,
+    "phrase": "on a large scale",
+    "raw": "on a large scale 大规模地",
+    "synonyms": "",
+    "meaning": "大规模地",
+    "first_letter": "O",
+    "tag": "核心短語"
+  },
+  {
+    "id": 614,
+    "phrase": "on schedule",
+    "raw": "on schedule(=at the planned or exacted time)按时,准时;ahead of schedule提前; in advance预先;behind schedule落后于计划进度,晚于规定时间",
+    "synonyms": "at the planned or exacted time",
+    "meaning": "按时,准时;ahead of schedule提前; in advance预先;behind schedule落后于计划进度,晚于规定时间",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 615,
+    "phrase": "be schedule for",
+    "raw": "be schedule for 定在某时(进行)",
+    "synonyms": "",
+    "meaning": "定在某时(进行)",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 616,
+    "phrase": "scrape through(in)",
+    "raw": "scrape through(in) 勉强通过",
+    "synonyms": "",
+    "meaning": "勉强通过",
+    "first_letter": "S",
+    "tag": "核心短語"
+  },
+  {
+    "id": 617,
+    "phrase": "from scratch",
+    "raw": "from scratch(=from the beginning)从头开始",
+    "synonyms": "from the beginning",
+    "meaning": "从头开始",
+    "first_letter": "F",
+    "tag": "同義替換"
+  },
+  {
+    "id": 618,
+    "phrase": "in search of",
+    "raw": "in search of 寻找;in honor of 为了...表示敬意;in me  \n \nof 为追求..;in behalf of为…的利益;in favor of 为赞成…;in support of 为支持…",
+    "synonyms": "",
+    "meaning": "寻找;in honor of 为了...表示敬意;in me  \n \nof 为追求..;in behalf of为…的利益;in favor of 为赞成…;in support of 为支持…",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 619,
+    "phrase": "in season",
+    "raw": "in season 旺季",
+    "synonyms": "",
+    "meaning": "旺季",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 620,
+    "phrase": "in secret",
+    "raw": "in secret 秘密地; in private 私下",
+    "synonyms": "",
+    "meaning": "秘密地; in private 私下",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 621,
+    "phrase": "senior to",
+    "raw": "senior to 比…年长; junior to 比…轻; \nsuperior to 比…更好; inferior to 比…差",
+    "synonyms": "",
+    "meaning": "比…年长; junior to 比…轻; \nsuperior to 比…更好; inferior to 比…差",
+    "first_letter": "S",
+    "tag": "核心短語"
+  },
+  {
+    "id": 622,
+    "phrase": "in a sense",
+    "raw": "in a sense 在某种意义上",
+    "synonyms": "",
+    "meaning": "在某种意义上",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 623,
+    "phrase": "sensitive to",
+    "raw": "sensitive to 对…敏感; sensible (of)觉察到的; sensational耸人听闻的",
+    "synonyms": "",
+    "meaning": "对…敏感; sensible (of)觉察到的; sensational耸人听闻的",
+    "first_letter": "S",
+    "tag": "核心短語"
+  },
+  {
+    "id": 624,
+    "phrase": "in sequence",
+    "raw": "in sequence 按顺序, 按先后次序",
+    "synonyms": "",
+    "meaning": "按顺序, 按先后次序",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 625,
+    "phrase": "share in",
+    "raw": "share in (=have a share in) 分摊, 分担",
+    "synonyms": "have a share in",
+    "meaning": "分摊, 分担",
+    "first_letter": "S",
+    "tag": "同義替換"
+  },
+  {
+    "id": 626,
+    "phrase": "share sth. with",
+    "raw": "share sth. with 与…分享,分担,分摊,共用",
+    "synonyms": "",
+    "meaning": "与…分享,分担,分摊,共用",
+    "first_letter": "S",
+    "tag": "核心短語"
+  },
+  {
+    "id": 627,
+    "phrase": "be shocked at / by",
+    "raw": "be shocked at / by 对…感到震惊",
+    "synonyms": "",
+    "meaning": "对…感到震惊",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 628,
+    "phrase": "fall short of",
+    "raw": "fall short of 达不到",
+    "synonyms": "",
+    "meaning": "达不到",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 629,
+    "phrase": "go short of",
+    "raw": "go short of (=be without enough of) 缺乏",
+    "synonyms": "be without enough of",
+    "meaning": "缺乏",
+    "first_letter": "G",
+    "tag": "同義替換"
+  },
+  {
+    "id": 630,
+    "phrase": "for short (in a short form)",
+    "raw": "for short (in a short form) 为简便,简称",
+    "synonyms": "",
+    "meaning": "为简便,简称",
+    "first_letter": "F",
+    "tag": "核心短語"
+  },
+  {
+    "id": 631,
+    "phrase": "in short",
+    "raw": "in short (=in a few words, in brief)简称",
+    "synonyms": "in a few words, in brief",
+    "meaning": "简称",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 632,
+    "phrase": "in short supply",
+    "raw": "in short supply 供应不足",
+    "synonyms": "",
+    "meaning": "供应不足",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 633,
+    "phrase": "be short of",
+    "raw": "be short of (=lacking enough)缺乏,不够",
+    "synonyms": "lacking enough",
+    "meaning": "缺乏,不够",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 634,
+    "phrase": "be shy of",
+    "raw": "be shy of 难为情, 不好意思",
+    "synonyms": "",
+    "meaning": "难为情, 不好意思",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 635,
+    "phrase": "at the side of",
+    "raw": "at the side of 与…相比",
+    "synonyms": "",
+    "meaning": "与…相比",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 636,
+    "phrase": "take the side of",
+    "raw": "take the side of 站在…一边",
+    "synonyms": "",
+    "meaning": "站在…一边",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 637,
+    "phrase": "catch the sight of",
+    "raw": "catch the sight of (=see for a moment)瞥见",
+    "synonyms": "see for a moment",
+    "meaning": "瞥见",
+    "first_letter": "C",
+    "tag": "同義替換"
+  },
+  {
+    "id": 638,
+    "phrase": "at the sight of",
+    "raw": "at the sight of 一看见…",
+    "synonyms": "",
+    "meaning": "一看见…",
+    "first_letter": "A",
+    "tag": "核心短語"
+  },
+  {
+    "id": 639,
+    "phrase": "(be)in sight",
+    "raw": "(be)in sight (=in view, visible) 看得见 \nout of sight 看不见",
+    "synonyms": "in view, visible",
+    "meaning": "看得见 \nout of sight 看不见",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 640,
+    "phrase": "know sb. by sight",
+    "raw": "know sb. by sight 与…只面熟",
+    "synonyms": "",
+    "meaning": "与…只面熟",
+    "first_letter": "K",
+    "tag": "核心短語"
+  },
+  {
+    "id": 641,
+    "phrase": "on the sly",
+    "raw": "on the sly (=secretly) 偷偷地",
+    "synonyms": "secretly",
+    "meaning": "偷偷地",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 642,
+    "phrase": "smell of",
+    "raw": "smell of 有…的气味",
+    "synonyms": "",
+    "meaning": "有…的气味",
+    "first_letter": "S",
+    "tag": "核心短語"
+  },
+  {
+    "id": 643,
+    "phrase": "be sorry about/for",
+    "raw": "be sorry about/for 懊悔的,后悔的,难过的",
+    "synonyms": "",
+    "meaning": "懊悔的,后悔的,难过的",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 644,
+    "phrase": "speak ill of",
+    "raw": "speak ill of 说…的坏话; \nspeak well of 说…的好话",
+    "synonyms": "",
+    "meaning": "说…的坏话; \nspeak well of 说…的好话",
+    "first_letter": "S",
+    "tag": "核心短語"
+  },
+  {
+    "id": 645,
+    "phrase": "specialize in",
+    "raw": "specialize in 专门研究, 专攻",
+    "synonyms": "",
+    "meaning": "专门研究, 专攻",
+    "first_letter": "S",
+    "tag": "核心短語"
+  },
+  {
+    "id": 646,
+    "phrase": "in spite of",
+    "raw": "in spite of (=despite) 尽管",
+    "synonyms": "despite",
+    "meaning": "尽管",
+    "first_letter": "I",
+    "tag": "同義替換"
+  },
+  {
+    "id": 647,
+    "phrase": "on the pot",
+    "raw": "on the pot(=at the place of the action)在现场, 在出事地点; 或(=at once) 立即",
+    "synonyms": "at the place of the action",
+    "meaning": "在现场, 在出事地点; 或(=at once) 立即",
+    "first_letter": "O",
+    "tag": "同義替換"
+  },
+  {
+    "id": 648,
+    "phrase": "take a stand against",
+    "raw": "take a stand against 采取某种立场反对 \ntake a stand for 采取某种立场支持…",
+    "synonyms": "",
+    "meaning": "采取某种立场反对 \ntake a stand for 采取某种立场支持…",
+    "first_letter": "T",
+    "tag": "核心短語"
+  },
+  {
+    "id": 649,
+    "phrase": "stare at",
+    "raw": "stare at 目不转睛地看, 凝视, 盯着",
+    "synonyms": "",
+    "meaning": "目不转睛地看, 凝视, 盯着",
+    "first_letter": "S",
+    "tag": "核心短語"
+  },
+  {
+    "id": 650,
+    "phrase": "in step",
+    "raw": "in step 步伐一致; out of step 步伐不齐",
+    "synonyms": "",
+    "meaning": "步伐一致; out of step 步伐不齐",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 651,
+    "phrase": "stick sth. on",
+    "raw": "stick sth. on 把…贴在…上",
+    "synonyms": "",
+    "meaning": "把…贴在…上",
+    "first_letter": "S",
+    "tag": "核心短語"
+  },
+  {
+    "id": 652,
+    "phrase": "stick to",
+    "raw": "stick to 粘着, 坚持",
+    "synonyms": "",
+    "meaning": "粘着, 坚持",
+    "first_letter": "S",
+    "tag": "核心短語"
+  },
+  {
+    "id": 653,
+    "phrase": "stick at",
+    "raw": "stick at (=continue to work hard at)继续勤奋地致力于…;stick one’s work坚持工作; stick at one’s books 勤奋读书",
+    "synonyms": "continue to work hard at",
+    "meaning": "继续勤奋地致力于…;stick one’s work坚持工作; stick at one’s books 勤奋读书",
+    "first_letter": "S",
+    "tag": "同義替換"
+  },
+  {
+    "id": 654,
+    "phrase": "stick to",
+    "raw": "stick to (=refuse to leave or change)坚持; \nstick to one’s promise 比喻食言 \nstick to one’s friend 忠于朋友",
+    "synonyms": "refuse to leave or change",
+    "meaning": "坚持; \nstick to one’s promise 比喻食言 \nstick to one’s friend 忠于朋友",
+    "first_letter": "S",
+    "tag": "同義替換"
+  },
+  {
+    "id": 655,
+    "phrase": "in stock",
+    "raw": "in stock 有….货",
+    "synonyms": "",
+    "meaning": "有….货",
+    "first_letter": "I",
+    "tag": "核心短語"
+  },
+  {
+    "id": 656,
+    "phrase": "be strict with",
+    "raw": "be strict with 对…严格要求",
+    "synonyms": "",
+    "meaning": "对…严格要求",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 657,
+    "phrase": "be/go on strike",
+    "raw": "be/go on strike 罢工",
+    "synonyms": "",
+    "meaning": "罢工",
+    "first_letter": "B",
+    "tag": "核心短語"
+  },
+  {
+    "id": 658,
+    "phrase": "subject…to",
+    "raw": "subject…to(=cause…to experience)使受..到 subject (adj.) to 易受到…的",
+    "synonyms": "cause…to experience",
+    "meaning": "使受..到 subject (adj.) to 易受到…的",
+    "first_letter": "S",
+    "tag": "同義替換"
+  },
+  {
+    "id": 659,
+    "phrase": "submit…to",
+    "raw": "submit…to 提交",
+    "synonyms": "",
+    "meaning": "提交",
+    "first_letter": "S",
+    "tag": "核心短語"
+  },
+  {
+    "id": 660,
+    "phrase": "substitute…for",
+    "raw": "substitute…for 以…代替…",
+    "synonyms": "",
+    "meaning": "以…代替…",
+    "first_letter": "S",
+    "tag": "核心短語"
+  },
+  {
+    "id": 661,
+    "phrase": "suffer from",
+    "raw": "suffer from 患…病; 受…苦痛",
+    "synonyms": "",
+    "meaning": "患…病; 受…苦痛",
+    "first_letter": "S",
+    "tag": "核心短語"
+  },
+  {
+    "id": 662,
+    "phrase": "be suitable for",
+    "raw": "be suitable for (=fit) 合适…的",
+    "synonyms": "fit",
+    "meaning": "合适…的",
+    "first_letter": "B",
+    "tag": "同義替換"
+  },
+  {
+    "id": 663,
+    "phrase": "in sum",
+    "raw": "in sum 大体上, 总之",
+    "synonyms": "",
+    "meaning": "大体上, 总之",
+    "first_letter": "I",
+    "tag": "核心短語"
+  }
+]
