@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="zh-TW" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BJ Chen · Web Projects Hub | 個人數位專案導航基地</title>
+  <meta name="description" content="BJ Chen 的個人 Web 應用、英語學習工具、機構工程計算機與私有雲服務集中導航門戶。">
+  
+  <!-- Favicon & Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  
+  <!-- CSS Stylesheet -->
+  <link rel="stylesheet" href="css/portal.css">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <header class="navbar">
+    <div class="container nav-wrap">
+      <a href="#" class="brand">
+        <div class="brand-icon">
+          <i class="fas fa-layer-group"></i>
+        </div>
+        <div class="brand-text">
+          <h1>BJ Chen · Projects Hub</h1>
+          <p>個人數位應用與工程服務導航站</p>
+        </div>
+      </a>
+
+      <div class="nav-actions">
+        <div class="status-badge" title="伺服器連線狀態正常">
+          <span class="status-dot"></span>
+          <span id="liveClock">00:00:00</span>
+        </div>
+
+        <button class="btn-icon" id="themeToggle" title="切換深色/淺色主題" aria-label="切換主題">
+          <i class="fas fa-moon"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero-pill">
+        <i class="fas fa-satellite-dish"></i>
+        <span>bjchentw.duckdns.org · 整合專案入口</span>
+      </div>
+      <h2 class="hero-title">探索與啟動您的數位工具箱</h2>
+      <p class="hero-desc">
+        集中管理英語學習神器、機構工程演算法工具、教材課本導航與私有雲端服務。免除記憶複雜 Port 號，一處統一即點即開。
+      </p>
+
+      <!-- Search & Category Filter Toolbar -->
+      <div class="toolbar-wrap">
+        <div class="search-input-box">
+          <i class="fas fa-search"></i>
+          <input type="text" id="portalSearch" placeholder="搜尋專案名稱、標籤或功能特色 (例如: 片語, 螺絲, NCE)...">
+        </div>
+
+        <div class="filter-pills">
+          <button class="filter-btn active" data-filter="all">全部專案</button>
+          <button class="filter-btn" data-filter="english">📚 英語研習</button>
+          <button class="filter-btn" data-filter="engineering">⚙️ 專業工程</button>
+          <button class="filter-btn" data-filter="cloud">🔒 雲端與伺服器</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Content Container -->
+  <main class="container">
+
+    <!-- SECTION 1: 英語研習與學習工具 -->
+    <div class="section-wrap" data-section="english">
+      <div class="section-header">
+        <div class="section-title">
+          <i class="fas fa-graduation-cap" style="color: #38bdf8;"></i>
+          <span>英語研習與記憶工具</span>
+        </div>
+        <span class="section-badge">3 個專案</span>
+      </div>
+
+      <div class="cards-grid">
+
+        <!-- Card 1: PhrasalFlow -->
+        <article class="project-card" data-category="english" style="--card-accent: #38bdf8; --card-accent-sub: #818cf8; --icon-bg: rgba(56, 189, 248, 0.12); --icon-color: #38bdf8; --icon-border: rgba(56, 189, 248, 0.25);">
+          <div>
+            <div class="card-top">
+              <div class="card-icon">
+                <i class="fas fa-brain"></i>
+              </div>
+              <div class="card-header-info">
+                <div class="card-title-row">
+                  <h3 class="card-title">PhrasalFlow 片語神器</h3>
+                  <span class="version-tag">v3.0</span>
+                </div>
+                <div class="card-subtitle">英語高頻動詞互動學習神器</div>
+              </div>
+            </div>
+            <p class="card-desc">
+              三階段階梯式架構（300 組片語），配備 600 首微軟 Azure 神經語音雙發音、3D 沉浸式單字卡、三大測驗題型與認知介系詞思維地圖。
+            </p>
+            <div class="card-tags">
+              <span class="tag highlight">300 組片語動詞</span>
+              <span class="tag highlight">600 雙真人發音</span>
+              <span class="tag">3D 單字卡</span>
+              <span class="tag">克漏字測驗</span>
+              <span class="tag">介系詞地圖</span>
+            </div>
+          </div>
+          <div class="card-actions">
+            <a href="./phrasal-verbs-tool/index.html" class="btn-primary" target="_blank">
+              <i class="fas fa-external-link-alt"></i> 開啟學習神器
+            </a>
+          </div>
+        </article>
+
+        <!-- Card 2: NCE Flow -->
+        <article class="project-card" data-category="english" style="--card-accent: #10b981; --card-accent-sub: #38bdf8; --icon-bg: rgba(16, 185, 129, 0.12); --icon-color: #10b981; --icon-border: rgba(16, 185, 129, 0.25);">
+          <div>
+            <div class="card-top">
+              <div class="card-icon">
+                <i class="fas fa-book-open"></i>
+              </div>
+              <div class="card-header-info">
+                <div class="card-title-row">
+                  <h3 class="card-title">NCE Flow 課本導航</h3>
+                  <span class="version-tag">1~4 冊</span>
+                </div>
+                <div class="card-subtitle">新概念英語智慧閱讀與音訊跟讀</div>
+              </div>
+            </div>
+            <p class="card-desc">
+              完整收錄新概念英語 1 至 4 冊經典課文與全套原聲朗讀音訊，具備精美排版、沉浸式段落閱讀、語速調節與學習歷史記錄。
+            </p>
+            <div class="card-tags">
+              <span class="tag success">全套 1~4 冊</span>
+              <span class="tag success">原聲全文朗讀</span>
+              <span class="tag">語速調節</span>
+              <span class="tag">收藏夾記錄</span>
+            </div>
+          </div>
+          <div class="card-actions">
+            <a href="./nce-flow/index.html" class="btn-primary" style="--card-accent: #10b981; --card-accent-sub: #38bdf8;" target="_blank">
+              <i class="fas fa-external-link-alt"></i> 開啟課本導航
+            </a>
+          </div>
+        </article>
+
+        <!-- Card 3: Chunk 口說練功簿 -->
+        <article class="project-card" data-category="english" style="--card-accent: #f59e0b; --card-accent-sub: #ef4444; --icon-bg: rgba(245, 158, 11, 0.12); --icon-color: #f59e0b; --icon-border: rgba(245, 158, 11, 0.25);">
+          <div>
+            <div class="card-top">
+              <div class="card-icon">
+                <i class="fas fa-headphones-simple"></i>
+              </div>
+              <div class="card-header-info">
+                <div class="card-title-row">
+                  <h3 class="card-title">Chunk 口說練功簿</h3>
+                  <span class="version-tag" style="color: #f59e0b; border-color: rgba(245, 158, 11, 0.3);">🎧 雙真人發音版</span>
+                </div>
+                <div class="card-subtitle">英語日常口說語塊與沉浸聽說訓練</div>
+              </div>
+            </div>
+            <p class="card-desc">
+              打破單字死背！全新升級 840 首微軟 Azure 類神經雙角色真人對白（A: Guy 男聲 / B: Jenny 女聲），支援對話連續播放、跟讀示範與語塊發音。
+            </p>
+            <div class="card-tags">
+              <span class="tag warning">840 首神經語音</span>
+              <span class="tag warning">男女雙角色對戲</span>
+              <span class="tag">整篇對話連播</span>
+              <span class="tag">逐句跟讀示範</span>
+              <span class="tag">高頻口說語塊</span>
+            </div>
+          </div>
+          <div class="card-actions">
+            <a href="./chunk-english/index.html" class="btn-primary" style="--card-accent: #f59e0b; --card-accent-sub: #ef4444;" target="_blank">
+              <i class="fas fa-headphones"></i> 開啟雙語音練功簿
+            </a>
+          </div>
+        </article>
+
+      </div>
+    </div>
+
+    <!-- SECTION 2: 專業工程與智慧工具 -->
+    <div class="section-wrap" data-section="engineering">
+      <div class="section-header">
+        <div class="section-title">
+          <i class="fas fa-cogs" style="color: #c084fc;"></i>
+          <span>機構工程與演算法工具</span>
+        </div>
+        <span class="section-badge">1 個專案</span>
+      </div>
+
+      <div class="cards-grid">
+
+        <!-- Card 4: MED-advisor -->
+        <article class="project-card" data-category="engineering" style="--card-accent: #c084fc; --card-accent-sub: #818cf8; --icon-bg: rgba(192, 132, 252, 0.12); --icon-color: #c084fc; --icon-border: rgba(192, 132, 252, 0.25);">
+          <div>
+            <div class="card-top">
+              <div class="card-icon">
+                <i class="fas fa-screwdriver-wrench"></i>
+              </div>
+              <div class="card-header-info">
+                <div class="card-title-row">
+                  <h3 class="card-title">MED-advisor 機械小幫手</h3>
+                  <span class="version-tag">React + TS</span>
+                </div>
+                <div class="card-subtitle">螺絲孔設計建議與深度計算機</div>
+              </div>
+            </div>
+            <p class="card-desc">
+              專為機構工程師設計的精準螺絲鎖附計算工具。支援 M3~M12 螺栓、板厚、墊圈配合、即時幾何剖面圖渲染與盲孔防呆校驗。
+            </p>
+            <div class="card-tags">
+              <span class="tag" style="background: rgba(192, 132, 252, 0.15); color: #c084fc; border-color: rgba(192, 132, 252, 0.3);">幾何剖面重繪</span>
+              <span class="tag">M3~M12 規範</span>
+              <span class="tag">咬合深度計算</span>
+              <span class="tag">防呆斷言校驗</span>
+            </div>
+          </div>
+          <div class="card-actions">
+            <a href="./MED-advisor/dist/index.html" class="btn-primary" style="--card-accent: #c084fc; --card-accent-sub: #818cf8;" target="_blank">
+              <i class="fas fa-desktop"></i> 本機直接啟動
+            </a>
+            <a href="https://bjchen-pixel.github.io/MED-advisor/" class="btn-secondary" target="_blank" title="前往 GitHub Pages 線上版">
+              <i class="fab fa-github"></i> 線上版
+            </a>
+          </div>
+        </article>
+
+      </div>
+    </div>
+
+    <!-- SECTION 3: 私有伺服器與雲端服務 -->
+    <div class="section-wrap" data-section="cloud">
+      <div class="section-header">
+        <div class="section-title">
+          <i class="fas fa-server" style="color: #f43f5e;"></i>
+          <span>私有伺服器與雲端管理</span>
+        </div>
+        <span class="section-badge">1 個系統</span>
+      </div>
+
+      <div class="cards-grid">
+
+        <!-- Card 5: Simple File Transfer -->
+        <article class="project-card" data-category="cloud" style="--card-accent: #f43f5e; --card-accent-sub: #fb923c; --icon-bg: rgba(244, 63, 94, 0.12); --icon-color: #f43f5e; --icon-border: rgba(244, 63, 94, 0.25);">
+          <div>
+            <div class="card-top">
+              <div class="card-icon">
+                <i class="fas fa-shield-halved"></i>
+              </div>
+              <div class="card-header-info">
+                <div class="card-title-row">
+                  <h3 class="card-title">簡易檔案傳輸系統</h3>
+                  <span class="version-tag">需密碼</span>
+                </div>
+                <div class="card-subtitle">Python 3.11 + Flask 私有雲傳輸</div>
+              </div>
+            </div>
+            <p class="card-desc">
+              安全快速的私有雲端檔案管理與傳輸平台。具備多使用者權限隔離、上傳下載控管、日誌記錄與雙網口直通。
+            </p>
+            <div class="card-tags">
+              <span class="tag" style="background: rgba(244, 63, 94, 0.15); color: #f43f5e; border-color: rgba(244, 63, 94, 0.3);">🔒 帳密安全保護</span>
+              <span class="tag">權限管理</span>
+              <span class="tag">內網 192.168.2.254:5001</span>
+              <span class="tag">外網 DuckDNS 直通</span>
+            </div>
+          </div>
+          <div class="card-actions">
+            <a href="http://192.168.2.254:5001/login" class="btn-primary" style="--card-accent: #f43f5e; --card-accent-sub: #fb923c;" target="_blank">
+              <i class="fas fa-lock"></i> 內網登入 (:5001)
+            </a>
+            <a href="http://bjchentw.duckdns.org:5001/login" class="btn-secondary" target="_blank" title="透過外部 DuckDNS 連線">
+              <i class="fas fa-globe"></i> 外網登入
+            </a>
+          </div>
+        </article>
+
+      </div>
+    </div>
+
+    <!-- Quick Info & Server Dashboard -->
+    <section class="info-hub">
+      <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-bottom: 8px;">
+        <h3 style="font-size: 1.15rem; font-weight: 700; display: flex; align-items: center; gap: 10px;">
+          <i class="fas fa-terminal" style="color: #38bdf8;"></i>
+          <span>伺服器網路環境與快速連線指南</span>
+        </h3>
+        <span style="font-size: 0.8rem; color: var(--text-muted);">Debian 12 Bookworm · Host: VPN</span>
+      </div>
+      <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 16px;">
+        此伺服器部署於區域網路內，並透過 DuckDNS 動態網域名稱進行外部連線。
+      </p>
+
+      <div class="info-hub-grid">
+        <div class="info-box">
+          <div class="info-box-title">
+            <i class="fas fa-network-wired"></i> 內網伺服器 IP (LAN)
+          </div>
+          <div class="info-box-val" style="display: flex; justify-content: space-between; align-items: center;">
+            <span>192.168.2.254</span>
+            <button class="btn-icon" style="width: 28px; height: 28px; font-size: 0.75rem;" onclick="copyText('192.168.2.254', '內網 IP')" title="複製 IP">
+              <i class="fas fa-copy"></i>
+            </button>
+          </div>
+        </div>
+
+        <div class="info-box">
+          <div class="info-box-title">
+            <i class="fas fa-globe"></i> 外部動態網址 (DuckDNS)
+          </div>
+          <div class="info-box-val" style="display: flex; justify-content: space-between; align-items: center;">
+            <span style="font-size: 0.85rem;">bjchentw.duckdns.org</span>
+            <button class="btn-icon" style="width: 28px; height: 28px; font-size: 0.75rem;" onclick="copyText('bjchentw.duckdns.org', 'DuckDNS 網址')" title="複製網址">
+              <i class="fas fa-copy"></i>
+            </button>
+          </div>
+        </div>
+
+        <div class="info-box">
+          <div class="info-box-title">
+            <i class="fas fa-key"></i> 終端 SSH 登入指令
+          </div>
+          <div class="info-box-val" style="display: flex; justify-content: space-between; align-items: center;">
+            <span style="font-size: 0.82rem;">ssh bjchen@192.168.2.254</span>
+            <button class="btn-icon" style="width: 28px; height: 28px; font-size: 0.75rem;" onclick="copyText('ssh bjchen@192.168.2.254', 'SSH 連線指令')" title="複製指令">
+              <i class="fas fa-copy"></i>
+            </button>
+          </div>
+        </div>
+
+        <div class="info-box">
+          <div class="info-box-title">
+            <i class="fas fa-route"></i> 軟路由網關 (OpenWrt)
+          </div>
+          <div class="info-box-val" style="display: flex; justify-content: space-between; align-items: center;">
+            <span>192.168.2.1</span>
+            <button class="btn-icon" style="width: 28px; height: 28px; font-size: 0.75rem;" onclick="copyText('192.168.2.1', '網關 IP')" title="複製 IP">
+              <i class="fas fa-copy"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-links">
+        <a href="https://github.com/bjchen-pixel" class="footer-link" target="_blank">
+          <i class="fab fa-github"></i> GitHub (@bjchen-pixel)
+        </a>
+        <a href="./phrasal-verbs-tool/index.html" class="footer-link" target="_blank">
+          PhrasalFlow 3.0
+        </a>
+        <a href="./MED-advisor/dist/index.html" class="footer-link" target="_blank">
+          MED-advisor
+        </a>
+        <a href="http://192.168.2.254:5001/login" class="footer-link" target="_blank">
+          檔案傳輸系統
+        </a>
+      </div>
+      <p>© 2026 BJ Chen · Personal Web Projects & Services Hub. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- JavaScript Controller -->
+  <script src="js/portal.js"></script>
+</body>
+</html>

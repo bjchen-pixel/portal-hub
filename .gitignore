@@ -1,0 +1,15 @@
+# Sub-repositories (managed in their own git repositories)
+phrasal-verbs-tool/
+MED-advisor/
+simple-file-transfer/
+英語日常口說 Chunk 訓練系統/
+chunk-english
+nce-flow/
+
+# Local configs and deployment notes
+*.local
+.env*
+
+# OS files
+.DS_Store
+Thumbs.db
