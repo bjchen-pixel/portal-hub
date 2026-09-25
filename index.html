@@ -301,86 +301,19 @@
             <div class="card-tags">
               <span class="tag" style="background: rgba(244, 63, 94, 0.15); color: #f43f5e; border-color: rgba(244, 63, 94, 0.3);">🔒 帳密安全保護</span>
               <span class="tag">權限管理</span>
-              <span class="tag">內網 192.168.2.254:5001</span>
-              <span class="tag">外網 DuckDNS 直通</span>
+              <span class="tag">傳輸加密</span>
+              <span class="tag">專用埠 (:5001)</span>
             </div>
           </div>
           <div class="card-actions">
-            <a href="http://192.168.2.254:5001/login" class="btn-primary" style="--card-accent: #f43f5e; --card-accent-sub: #fb923c;" target="_blank">
-              <i class="fas fa-lock"></i> 內網登入 (:5001)
-            </a>
-            <a href="http://bjchentw.duckdns.org:5001/login" class="btn-secondary" target="_blank" title="透過外部 DuckDNS 連線">
-              <i class="fas fa-globe"></i> 外網登入
+            <a href="http://bjchentw.duckdns.org:5001/login" class="btn-primary" style="--card-accent: #f43f5e; --card-accent-sub: #fb923c;" target="_blank">
+              <i class="fas fa-arrow-up-right-from-square"></i> 開啟檔案傳輸系統 (:5001)
             </a>
           </div>
         </article>
 
       </div>
     </div>
-
-    <!-- Quick Info & Server Dashboard -->
-    <section class="info-hub">
-      <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-bottom: 8px;">
-        <h3 style="font-size: 1.15rem; font-weight: 700; display: flex; align-items: center; gap: 10px;">
-          <i class="fas fa-terminal" style="color: #38bdf8;"></i>
-          <span>伺服器網路環境與快速連線指南</span>
-        </h3>
-        <span style="font-size: 0.8rem; color: var(--text-muted);">Debian 12 Bookworm · Host: VPN</span>
-      </div>
-      <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 16px;">
-        此伺服器部署於區域網路內，並透過 DuckDNS 動態網域名稱進行外部連線。
-      </p>
-
-      <div class="info-hub-grid">
-        <div class="info-box">
-          <div class="info-box-title">
-            <i class="fas fa-network-wired"></i> 內網伺服器 IP (LAN)
-          </div>
-          <div class="info-box-val" style="display: flex; justify-content: space-between; align-items: center;">
-            <span>192.168.2.254</span>
-            <button class="btn-icon" style="width: 28px; height: 28px; font-size: 0.75rem;" onclick="copyText('192.168.2.254', '內網 IP')" title="複製 IP">
-              <i class="fas fa-copy"></i>
-            </button>
-          </div>
-        </div>
-
-        <div class="info-box">
-          <div class="info-box-title">
-            <i class="fas fa-globe"></i> 外部動態網址 (DuckDNS)
-          </div>
-          <div class="info-box-val" style="display: flex; justify-content: space-between; align-items: center;">
-            <span style="font-size: 0.85rem;">bjchentw.duckdns.org</span>
-            <button class="btn-icon" style="width: 28px; height: 28px; font-size: 0.75rem;" onclick="copyText('bjchentw.duckdns.org', 'DuckDNS 網址')" title="複製網址">
-              <i class="fas fa-copy"></i>
-            </button>
-          </div>
-        </div>
-
-        <div class="info-box">
-          <div class="info-box-title">
-            <i class="fas fa-key"></i> 終端 SSH 登入指令
-          </div>
-          <div class="info-box-val" style="display: flex; justify-content: space-between; align-items: center;">
-            <span style="font-size: 0.82rem;">ssh bjchen@192.168.2.254</span>
-            <button class="btn-icon" style="width: 28px; height: 28px; font-size: 0.75rem;" onclick="copyText('ssh bjchen@192.168.2.254', 'SSH 連線指令')" title="複製指令">
-              <i class="fas fa-copy"></i>
-            </button>
-          </div>
-        </div>
-
-        <div class="info-box">
-          <div class="info-box-title">
-            <i class="fas fa-route"></i> 軟路由網關 (OpenWrt)
-          </div>
-          <div class="info-box-val" style="display: flex; justify-content: space-between; align-items: center;">
-            <span>192.168.2.1</span>
-            <button class="btn-icon" style="width: 28px; height: 28px; font-size: 0.75rem;" onclick="copyText('192.168.2.1', '網關 IP')" title="複製 IP">
-              <i class="fas fa-copy"></i>
-            </button>
-          </div>
-        </div>
-      </div>
-    </section>
 
   </main>
 
@@ -406,7 +339,7 @@
         <a href="./MED-advisor/dist/index.html" class="footer-link" target="_blank">
           MED-advisor
         </a>
-        <a href="http://192.168.2.254:5001/login" class="footer-link" target="_blank">
+        <a href="http://bjchentw.duckdns.org:5001/login" class="footer-link" target="_blank">
           檔案傳輸系統
         </a>
       </div>
